@@ -2,11 +2,14 @@
 title: "Vaccine Allocation at Stanford Hospital"
 date: 2020-12-19T21:43:54-05:00
 draft: false
+tags: [algorithimic decisions,communication,covid]
 ---
 
 In a [video](https://twitter.com/ddiamond/status/1340091749595815936) that was widely shared last Friday, a representative from Stanford Medical Center spoke to residents protesting how the hospital chose to allocate its first shipment of COVID-19 vaccines. The hospital had around 5,000 initial doses to distribute (and expects to have tens of thousands more within the next few weeks), and came up with an allocation scheme in which only 7 of the approximately 1,300 residents were on the list. Many of these residents deal directly with patients who have COVID-19, whereas other more senior physicians, as well as other front line workers, such as nurses and food service employees, were given priority. In the video, the spokesperson explains that the algorithm they used to come up with an allocation scheme “clearly didn’t work”, to which protestors respond by shouting “Algorithms suck!” and “Fuck the algorithm!”
 
 This episode is exceptionally revealing of numerous aspects of algorithmic decision making more broadly, the kinds of problems we are likely to see in the future, and how we can do better. To be clear, I have no special knowledge of processes involved, but want to use this episode as an example to think through various ways things can go wrong, and how we communicate about processes and problems.
+
+<!--more-->
 
 First, it is worth quoting from the video at length.
 
@@ -55,7 +58,7 @@ To unpack, this let’s go through the transcript in more detail.
 
 “_It seems that the intentions have been very good, but there was a mistake, and there was no resident representation. How do we prevent this from happening in the future_”: Finally, an extremely important remark from the crowd. It is all well and good to have a process, but again, good intentions are not enough. This would seem to be a fairly clear example of why having broad representation among a decision making body is important. Even if a resident had nothing substantive to contribute to the design of the algorithm, they would presumably have noticed the lack of priority assigned to residents, and pushed back against this. That does not necessarily mean they would have been in the right (one can imagine the many groups within the hospital wanting to have the chance to make the case for why they should be included), but having some representation at least ensures that someone is going to be in place to look out for their interests, and ideally bring knowledge to the process of why the risk faced by that group is higher than had been estimated. How do we prevent this from happening in the future is perhaps the inevitable question in this sort of scenario, and again can be seen as a kind of negotiating tactic. It argues for a change to the broader process, which will be ongoing struggle, given the lack of any single “correct” solution, and something we can expect to see replicated in many other contexts.
 
----
+//
 
 I have intentionally emphasized some of the rhetorical aspects of the transcript above, but, as suggested, I think this episode is highly revealing of a type of scenario we are increasingly likely to encounter in the future. As algorithmic decision making processes see ever more widespread adoption (in domains such as student evaluation, resume screening, criminal sentencing, etc.), we will increasingly run up against the real and perceived problems of such approaches. To reiterate some of the above, decisions in these domains may seem to be calculable, but this tends to underplay the lack of knowledge and understanding involved in many of these settings, giving a false impression of rational justification. Algorithmic solutions are also likely to ignore both the emotional aspects of these decisions and the latent power of affected groups.
 
