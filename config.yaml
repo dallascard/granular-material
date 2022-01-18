@@ -1,3 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://<USERNAME>.github.io/granular-material
 languageCode: en-us
-title: My New Hugo Site
+title: Granular Material
+theme: pixyll

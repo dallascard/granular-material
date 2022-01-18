@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Granular Material on Granular Material </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://&lt;USERNAME&gt;.github.io/granular-material/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 17 Jan 2022 21:08:29 EST</updated>
+    
+    <item>
+      <title>Test</title>
+      <link>https://&lt;USERNAME&gt;.github.io/granular-material/post/test/</link>
+      <pubDate>Mon, 17 Jan 2022 21:08:29 EST</pubDate>
+      
+      <guid>https://&lt;USERNAME&gt;.github.io/granular-material/post/test/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
+
