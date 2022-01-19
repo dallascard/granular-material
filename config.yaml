@@ -2,3 +2,21 @@ baseURL: https://dallascard.github.io/granular-material
 languageCode: en-us
 title: Granular Material
 theme: pixyll
+
+relativeURLs: false
+canonifyUrls: true
+contentDir: "content"
+
+blackfriday:
+    angledQuotes: true
+    hrefTargetBlank: true
+
+indexes:
+    tag: "tags"
+
+params:
+    mainSections = ["post"]
+    search_engine = true
+    twitter_username = "dallascard"
+    paginate = 5
+
