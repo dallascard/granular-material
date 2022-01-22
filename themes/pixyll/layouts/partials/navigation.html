@@ -1,6 +1,3 @@
-<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/about/">{{ i18n "about" }}</a>
-<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/tags/">{{ i18n "tags" }}</a>
-<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/contact/">{{ i18n "contact" }}</a>
 {{- if .Site.IsMultiLingual -}}
 {{- range $lang := .Site.Languages -}}
 {{- if ne $.Site.Language $lang -}}

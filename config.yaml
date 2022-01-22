@@ -1,10 +1,10 @@
-baseURL: https://dallascard.github.io/granular-material
+baseURL: https://dallascard.github.io/granular-material/
 languageCode: en-us
 title: Granular Material
 theme: pixyll
 
-relativeURLs: false
-canonifyUrls: true
+relativeurls: true
+canonifyurls: true
 contentDir: "content"
 
 blackfriday:
