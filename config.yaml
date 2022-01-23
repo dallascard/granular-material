@@ -15,8 +15,7 @@ indexes:
     tag: "tags"
 
 params:
-    mainSections = ["post"]
-    search_engine = true
-    twitter_username = "dallascard"
-    paginate = 5
+    mainSections: ["post"]
+    twitter_username: "dallascard"
+    paginate: 4
 
