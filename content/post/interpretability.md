@@ -1,7 +1,7 @@
 ---
 title: "What everyone needs to know about interpretability in machine learning"
 date: 2018-05-25T20:46:57-05:00
-draft: true
+draft: false
 tags: ["machine-learning", "interpretability"]
 summary: "For anyone who’s been paying attention, it should be apparent that statistical machine learning systems are being widely deployed for automated decision making in all kinds of areas these days, including criminal justice, medicine, education, employment, policing, and so on. Particularly with the recently enacted GDPR — the new European regulation about data and privacy — there is growing interest in having systems that are interpretable, that is, we can make some sense of why they are making the prediction that they are making. To borrow an example from Been Kim, if a computer tells you that you need surgery, you’re probably going to ask for some sort of explanation."
 
