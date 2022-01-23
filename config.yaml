@@ -11,7 +11,7 @@ blackfriday:
     angledQuotes: true
     hrefTargetBlank: true
 
-indexes:
+taxonomies:
     tag: "tags"
 
 params:
