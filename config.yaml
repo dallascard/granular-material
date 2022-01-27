@@ -3,6 +3,8 @@ languageCode: en-us
 title: Granular Material
 theme: pixyll
 
+smartDashes: true
+
 relativeurls: true
 canonifyurls: true
 contentDir: "content"
