@@ -3,6 +3,7 @@ title: "On the Perils of Automated Face Recognition"
 date: 2018-12-17T21:59:04-05:00
 draft: false
 tags: [privacy,face-recognition,machine-learning,surveillance,biometrics]
+medium: https://dallascard.medium.com/on-the-perils-of-automated-face-recognition-aef43158c1a8
 ---
 
 {{< figure src="/img/face-recognition/bertillon.jpeg" caption="Anthropometric data sheet (both sides) of Alphonse Bertillon (1853–1914)." link="https://commons.wikimedia.org/wiki/File:Bertillon,_Alphonse,_fiche_anthropom%C3%A9trique_recto-verso.jpg">}}

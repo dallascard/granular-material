@@ -2,7 +2,8 @@
 title: "Privacy in Context"
 date: 2018-05-14T23:09:37-05:00
 draft: false
-tags: ["privacy"]
+tags: ["privacy", 'books']
+medium: https://dallascard.medium.com/privacy-in-context-a5ee09f3e61b
 ---
 
 

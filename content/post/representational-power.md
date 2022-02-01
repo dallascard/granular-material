@@ -3,6 +3,7 @@ title: "Representational Power"
 date: 2019-07-20T21:27:37-05:00
 draft: false
 tags: [photography, representation, machine-learning, power]
+medium: https://dallascard.medium.com/representational-power-e191d62a5263
 ---
 
 {{< figure src="/img/representational-power//plate.jpeg" caption="The original plate of “View from the Window at Le Gras”, a heliograph made by Nicéphore Niépce around 1827." link="https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras">}}

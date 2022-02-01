@@ -2,6 +2,7 @@
 title: "Vaccine Allocation at Stanford Hospital"
 date: 2020-12-19T21:43:54-05:00
 draft: false
+medium: https://dallascard.medium.com/vaccine-allocation-at-stanford-hospital-2d731aba54ed
 tags: [algorithimic-decision-making,communication,covid]
 summary: In a video that was widely shared last Friday, a representative from Stanford Medical Center spoke to residents protesting how the hospital chose to allocate its first shipment of COVID-19 vaccines. The hospital had around 5,000 initial doses to distribute (and expects to have tens of thousands more within the next few weeks), and came up with an allocation scheme in which only 7 of the approximately 1,300 residents were on the list. Many of these residents deal directly with patients who have COVID-19, whereas other more senior physicians, as well as other front line workers, such as nurses and food service employees, were given priority. In the video, the spokesperson explains that the algorithm they used to come up with an allocation scheme “clearly didn’t work”, to which protestors respond by shouting “Algorithms suck!” and “Fuck the algorithm!” ...
 

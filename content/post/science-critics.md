@@ -3,6 +3,7 @@ title: "The case for professional critics in science"
 date: 2020-10-03T21:24:17-05:00
 draft: false
 tags: ["science", "criticism"]
+medium: https://dallascard.medium.com/the-case-for-professional-critics-in-science-6bc7949a2f66
 ---
 
 In many areas of science, there is an increasingly urgent unmet need, a role that could be simultaneously fascinating, rewarding, and potential remunerative. It is a role that already exists in various forms, but which could be made into something much more potent, especially if forces converged to make it more prominent. I am talking, of course, about the professional science critic.

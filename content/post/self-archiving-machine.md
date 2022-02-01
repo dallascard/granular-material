@@ -1,0 +1,32 @@
+---
+title: "The Self-Archiving machine"
+date: 2017-05-21T20:47:34-05:00
+draft: false
+tags: ['archives', 'writing', 'technology']
+medium: https://dallascard.medium.com/the-self-archiving-machine-bec503d95d1e
+---
+
+What lies in store for this post? As I write this, it exists in a strange space — not yet public, yet already part of an archive, of a kind. Perhaps it cannot yet even be properly called a post, (since it has not yet been posted), and yet it is there for me to read and edit, part of my collection of unpublished stubs, stored on the Medium servers along with who knows what metadata.
+
+Archives seem to have taken on a prominent role in society lately, and I’ve found myself rather drawn to thinking about them, especially in relation to history, technology, and surveillance. Although it perhaps pushes the conceptual boundary beyond where it traditionally lies, it is interesting to think about the way in which traces of the actions we take in our lives are being recorded and stored in a variety of ways. Is this a manifestation of some archival tendency, or simply the natural outgrowth of trying to monetize data in all its forms? Is it yet another technology of social control, or a service that is almost by accident providing each of us with a customized archive of our own lives? As we gain the ability to store everything, will there be a change in our sense of value of the past, or will the whole thing collapse under its own weight?
+Photo by Danika Perkinson on Unsplash
+
+I am eager to think through some of these questions, and it seems natural to do so in this space, both for its convenience, and because it illustrates some of the questions involved. Writing, after all, is the [archival technology](http://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm) _par excellence_, allowing future generations to actually read the thoughts of those who came before.
+
+At the most basic level, Medium provides me with a tool to write and edit, conveniently saving all my changes and allowing me to work from multiple places without manually transferring any data. This style of composing has largely become the norm, and as many have pointed out, has the potential to hide its own history. Rather than there existing a copy of an early draft, you are more likely to see only the final version that I choose to publish.
+
+On the other hand, in cases where such copies do exist, it is easier than ever to examine the evolution of language and trace language reuse. This is perhaps taken to the extreme in version control systems, such as Git, and on Wikipedia, where the entire history of edits is stored and is available for browsing. This might seem to be taking us rather far afield, but I think it is one of the most salient cases of how technology has changed what gets saved in archives, and how we write. On this platform, however, I may be able to edit this text after it has been published, without anyone being aware.
+
+And yet, if I do click “Publish”, I may in fact surrender the ability to delete this post, such as it is. Although it is unlikely, these words could be instantaneously copied and republished elsewhere, with or without attribution. Even without human intervention, an organization such as the Internet Archive might store a copy automatically. Paradoxically, even though long-term archival storage of digital media is far from a simple or solved [problem](https://www.theatlantic.com/technology/archive/2015/11/the-irony-of-writing-about-digital-preservation/416184/), in certain cases, it may be that eliminating all digital copies of a particular record could be effectively impossible.
+
+One could also argue that by writing on a platform such as Medium, I am contributing to an archive that is both private and public. It is clearly public, in that once I click “Publish”, these words will then be available for anyone to read. It will also be situated among the type of writing that appears on Medium, linked with thematically related posts, etc. But it is also private, in that this post will be (has already been) collected and organized along with others that I have written.
+
+As with any archive, I am depositing these words with some expectation that they will continue to be available to me, but of course there are no guarantees. I don’t know what sort of backup system Medium uses, or what their commercial viability is. This post, which began as simple brain-storming, and which seems to be evolving towards an essay, is trying to question both its own provenience and its purpose. Although I don’t expect it to have any effect upon the world, I can imagine being delighted to re-discover it many years from now, and be stimulated to remember precisely what I had been thinking about at this point in time.
+
+This post is, of course, just one example of the kind of data that we are producing these days, as individuals and as a species, and an unbelievable amount of which is being stored. From writing, to audio, to video, to raw data traces in the form of website clicks, browsing history, location tracking, login attempts, credit card payments, and so on, the evidence of our existence piles up and forms mountains of data, creating a rich landscape to be mined, perhaps by us, but certainly by others.
+
+Does this archive have value to us? It seems clear that it has immense value to companies, at least in aggregate, primarily in their attempt to sell us things with targeted advertising. This may or may not bring some benefit to us, depending on our preferences, but it seems clear that many of us also find great value in having this archive created for us, and in many cases choose to actively contribute to it.
+
+While things are still so much in flux, it all seems somewhat paradoxical. We in some cases take great pains to make sure that everything is saved, and yet place enormous trust in the systems that we use, without understanding them. We upload terabytes of photos and videos, but often never look at them again. At the same time, we value privacy, yet trade our data to others for a fabulous range of services, including the very storage of that data.
+
+I don’t think that there is any way out of this self-archiving machine, but I expect things will continue to evolve. In the meantime, there are many fascinating avenues to be explored, before we ultimately end up back where we started.

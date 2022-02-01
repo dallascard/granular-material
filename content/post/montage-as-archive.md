@@ -1,0 +1,21 @@
+---
+title: "Montage as Archive"
+date: 2017-11-25T22:07:35-05:00
+draft: false
+tags: ['archives', 'film', 'history']
+medium: https://dallascard.medium.com/montage-as-archive-4928a29fb23b
+---
+
+
+I was recently reminded of Christian Marclay’s [_The Clock_](https://en.wikipedia.org/wiki/The_Clock_(2010_film))---a 24 hour film made up of thousands of short film clips, carefully edited together such that (when properly synchronized) the time depicted in each moment of film corresponds to the current time in the world. I’ve never seen it, and sadly only a few copies exist, but I think it’s a fascinating example of a kind of archival art.
+
+When you hear the description, you might think of it as just a kind of a gimmick, one which would not reward actual viewing. However, based on the (bootlegged) clips that are [available online](https://kottke.org/13/06/about-an-hour-of-christian-marclays-the-clock) and reports from various people who have seen it, it apparently achieves much more. To be clear, although many of the scenes involve a shot of some sort of time piece (thereby establishing the time in the source film), the composition is not so simple as just finding and assembling shots of clocks. Rather, we see a slice in time, sometimes with intercutting between films. As a result, common patterns quickly emerge: in the morning we get people waking up. In the evening, we see people eating dinner and attending parties, etc. This is interesting because what is shown in films bears some relation to what happens in the real world; even if it ends up being a distorted or idealized reflection, this certainly tells us something about how Hollywood depicts society, and by implication, something about society itself.
+
+In addition to some of Marclay’s other works, _The Clock_ also reminds me of other films which assemble large amounts of repurposed footage, such as Jean-Luc Godard’s _Histoire(s) du cinéma_ and Thom Andersen’s _Los Angeles Plays Itself_. Both of these are clearly instances of archival art, and yet both end up being archives of a sort in and of themselves.
+
+I personally find Godard’s _Historie(s)_ a bit impenetrable, but in the case of Andersen’s film, we get a depiction of Los Angeles that is revealing and authentic despite the artifice. For those who haven’t seen it, his film is closer to a conventional documentary than the other works mentioned here, but visually is made up almost entirely of scenes from films set in and around Los Angeles. The most fascinating examples end up being buildings or interiors that have been used repeatedly in many films. Somehow, the more we see others attempting to mask the true identity of a highly identifiable building, the more it asserts its own identity. The fact that shots of certain buildings in Los Angeles can be found in so many different films means that we find a kind of truth from what is common between them, despite the manipulation in each individual film.
+
+_Los Angeles Plays Itself_ is now available for anyone to see, but _The Clock_ unfortunately remains tightly locked up. Marclay certainly did not get permission to use all of the clips, assuming that if you make something wonderful enough, people will be unlikely to sue you for it. Whether this actually limits distribution or not is unclear, but the frustrating part is that only 6 copies were made, all of which were sold for large sums of money. As a result, it is nearly impossible to view the film, except for the pieces that exist online. There’s an obvious irony here, in that the best way to view a film comprised of bootlegged film clips may end up being to assemble a bunch of bootlegged film clips of the compilation.
+
+In some ways, exclusivity is inherent in the nature of archives, as control of information has always carried a certain amount of power. The internet has shaken this up of course, (to some extent), and the sheer amount of information available online now means that anyone could (with some effort) make their own _Clock_. One could even imagine crowdsourcing a collaborative version or creating an interactive or branching montage, and perhaps this to some extent makes the original less important. In the end though, I’d still like to have the chance to see it.
+

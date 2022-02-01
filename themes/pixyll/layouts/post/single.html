@@ -5,14 +5,18 @@
     <div class="measure">
       <div class="post-header mb2">
         <h1 class="py2">{{ .Title }}</h1>
-        <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }} {{ if isset .Params "author" }} by {{ .Params.author }} {{ end }}</span><br>
+        <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }} {{ if isset .Params "author" }} by {{ .Params.author }} {{ end }} </span><br>
         {{ $baseurl := .Site.BaseURL }}
       </div>
-
       <article class="post-content">
       {{ .Content }}
       </article>
 
+      <div style="text-align: center;">
+      <span class="post-meta">  {{if isset .Params "medium" }} [<a href={{ .Params.medium }} target="_blank" >Comments on Medium</a>] {{ end }} </span>
+      </div>
+
+      <br>
       {{ if isset .Params "tags" }} {{ if len .Params.tags }}
       <p class="post-meta">{{ i18n "tags" }}:&nbsp;
         {{ range $i, $e := .Params.tags }}
@@ -21,6 +25,7 @@
         {{ end }}
       </p>
       {{ end }} {{ end }}
+      
 
       {{ partial "comments.html" . }}
     </div>
