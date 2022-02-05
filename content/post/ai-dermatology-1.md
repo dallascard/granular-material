@@ -1,6 +1,6 @@
 ---
 title: "AI Dermatology: Part 1"
-date: 2022-02-05T15:31:51-05:00
+date: 2022-02-05T15:32:51-05:00
 draft: false
 tags: ['machine-learning', 'dermatology', 'medicine', 'data', 'privacy', 'foundation-models']
 ---
