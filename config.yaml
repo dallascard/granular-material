@@ -5,6 +5,7 @@ theme: pixyll
 
 smartDashes: true
 
+
 relativeurls: true
 canonifyurls: true
 contentDir: "content"
