@@ -2,6 +2,7 @@
 title: "AI Dermatology: Part 1"
 date: 2022-02-05T07:32:51-05:00
 draft: false
+medium: https://dallascard.medium.com/ai-dermatology-part-1-2c64696dc243
 tags: ['machine-learning', 'dermatology', 'medicine', 'data', 'privacy', 'foundation-models']
 ---
 
