@@ -9,7 +9,7 @@ tags: ['machine-learning', 'dermatology', 'medicine', 'data', 'privacy', 'founda
 
 Midway through last year Google [announced](https://blog.google/technology/health/ai-dermatology-preview-io-2021/) a new foray into the medical technology space, sharing that it was developing an "AI-powered dermatology assist tool"---a phone-based app that would allow users to take photos of skin lesions and retrieve information about relevant medical conditions from the web. [Similar](https://www.skinvision.com/) [apps](https://play.google.com/store/apps/details?id=com.aidermatologist&hl=en_US&gl=US) already exist, but it's fair to say that a comparable effort by Google is likely to have much more significant effects on how people interact with the medical system, their personal data, and even their own bodies.
 
-In a follow up post I'll dig into the main [scientific publication](https://www.nature.com/articles/s41591-020-0842-3) that this app is based on, and ask what we can conclude about how accurate it is likely to be, but here I want to start by discussing broader implications. A key point I want to emphasize, which I think is broadly true for a lot of things happening in the AI space, is that the likely effects of such a system have far less to do with how accurate it is compared to other systems, and far more to do with things related to affordances, perceptions, and power.
+In a [follow up post](https://dallascard.github.io/granular-material/post/ai-dermatology-2/) I'll dig into the main [scientific publication](https://www.nature.com/articles/s41591-020-0842-3) that this app is based on, and ask what we can conclude about how accurate it is likely to be, but here I want to start by discussing broader implications. A key point I want to emphasize, which I think is broadly true for a lot of things happening in the AI space, is that the likely effects of such a system have far less to do with how accurate it is compared to other systems, and far more to do with things related to affordances, perceptions, and power.
 
 
 //
@@ -60,7 +60,7 @@ Over the long term, it seems highly likely that a machine learning system will e
 
 The irony, of course, is that the broader medical system already likely has all the data required to make a much more accurate system (including extensive patient data tied to actual outcomes), but is incapable of acting in a coordinated fashion, both because of the fragmentary nature of the existing system, and because of real concerns about privacy (and how we treat medical data more broadly). In the end, it seems possible that a specialized phone-based search tool that categorically does not provide a diagnosis is the thing that ultimately changes the status quo and leads to greater consolidation of medical data, though whether this leads to a net benefit or not remains to be seen.
 
-*Coming up next: Exploring the evidence*
+*Coming up next: [Exploring the evidence](https://dallascard.github.io/granular-material/post/ai-dermatology-2/)*
 
 
 [^1]: [SkinVision](https://www.skinvision.com/) claims to have 1.8 million users, but it is a paid service, and is not approved for use in the US or Canada.
