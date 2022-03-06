@@ -1,8 +1,8 @@
 ---
 title: "Confidence in Science"
 date: 2022-03-06T09:20:14-05:00
-draft: true
-keywords: ["machine-learning", "reproducibility", "invisible-colleges", "science"]
+draft: false
+tags: ["machine-learning", "reproducibility", "invisible-colleges", "science"]
 ---
 
 I’ve been thinking recently about the role of confidence in science, and how long beliefs can persist simply because everyone else seems to believe them. Coincidentally, Andrew Gelman [posted](https://statmodeling.stat.columbia.edu/2022/03/04/biology-as-a-cumulative-science-and-the-relevance-of-this-idea-to-replication/) about this two days ago, responding to comments from a biologist about how the replication crisis had not been a major problem in biology. Her argument was that this was because biologiy is a "cumulative science". By this she meant that when something important gets published, it is often the kind of discovery that people want to use immediately. If the original claims was wrong, people will quickly figure it out.
