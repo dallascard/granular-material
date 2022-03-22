@@ -21,6 +21,5 @@ params:
     mainSections: ["post"]
     twitter_username: "dallascard"
     paginate: 4
-    search_engine: false
 
 
