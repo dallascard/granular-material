@@ -466,7 +466,7 @@ Licensed under the MIT license - http://opensource.org/license/MIT
     -ms-transition: all .3s;
 }
 
-.icons a.rss { background: url(/granular-material/images/icons/rss.png) left top no-repeat; }
+.icons a.rss { background: url(./images/icons/rss.png) left top no-repeat; }
 .icons a.twitter { background: url(/images/icons/twitter.png) left top no-repeat; }
 
 /*!
