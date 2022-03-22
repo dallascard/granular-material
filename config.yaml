@@ -19,6 +19,6 @@ taxonomies:
 params:
     mainSections: ["post"]
     twitter_username: "dallascard"
-`    paginate: 5
+    paginate: 5
 
 
