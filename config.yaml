@@ -20,5 +20,7 @@ params:
     mainSections: ["post"]
     twitter_username: "dallascard"
     paginate: 5
+    google_analytics_id: "G-EL45TK68M9"
+
 
 
