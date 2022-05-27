@@ -2,7 +2,7 @@
 title: "Counting Deaths"
 date: 2022-05-14T17:24:13-04:00
 draft: false
-tags: ["data", "statistics", "quantification", "mortality", "archives", "demography", "biopolitics", "governmentality", "Foucault", "John Graunt", "Ian Hacking"]
+tags: ["data", "statistics", "quantification", "mortality", "archives", "demography", "biopolitics", "governmentality", "Michel Foucault", "John Graunt", "Ian Hacking"]
 ---
 
 > This day the weekly bills come out  
