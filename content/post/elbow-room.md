@@ -8,7 +8,7 @@ medium: https://dallascard.medium.com/elbow-room-by-daniel-dennett-c0e6fba3ee0e
 
 {{< figure src="/img/elbow-room/thinker.jpeg" >}}
 
-Daniel Dennett is one of the most fascinating philosophers currently living. Although he pursued a traditional (but nonetheless exceptional) course of eduction, over time he seems to have moved farther and farther away from traditional philosophical methods and styles, and more toward a form of engagement that is simultaneously rigorous, original, and accessible. Not only is he prolific, he is far better informed on scientific topics than any other philosopher I can think of, and seems to have quite intentionally pursued a course through the relevant fields of inquiry in order to develop a sophisticated understanding of what we are as human beings.
+Daniel Dennett is one of the most fascinating philosophers currently living. Although he pursued a traditional (but nonetheless exceptional) course of education, over time he seems to have moved farther and farther away from traditional philosophical methods and styles, and more toward a form of engagement that is simultaneously rigorous, original, and accessible. Not only is he prolific, he is far better informed on scientific topics than any other philosopher I can think of, and seems to have quite intentionally pursued a course through the relevant fields of inquiry in order to develop a sophisticated understanding of what we are as human beings.
 
 <!--more-->
 
