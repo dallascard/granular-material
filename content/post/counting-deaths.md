@@ -3,6 +3,8 @@ title: "Counting Deaths"
 date: 2022-05-14T17:24:13-04:00
 draft: false
 tags: ["data", "statistics", "quantification", "mortality", "archives", "demography", "biopolitics", "governmentality", "Michel-Foucault", "John-Graunt", "Ian-Hacking"]
+summary: "
+Although morbid, it's fascinating to read a recent article in the NYT about efforts in Sierra Leone to use "electronic autopsies" in a large scale attempt at counting deaths. According to the article, this undertaking is part of a broader effort at data collection, including questions on age, religion, marital status, etc. The novelty, it seems, is in trying to be thorough with respect to what people have died of (including extensive questions about symptoms), even though this information is being collected potentially long after the fact."
 ---
 
 > This day the weekly bills come out  
