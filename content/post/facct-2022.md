@@ -2,7 +2,7 @@
 title: "Report from FAccT 2022"
 date: 2022-07-03T12:59:04-05:00
 draft: false
-tags: [accountability, algorithmic-decision-making, André-Brock, FAccT, face-recognition, large-language-models, machine-learning, science, sociotechnical-systems]
+tags: [accountability, algorithmic-decision-making, FAccT, face-recognition, large-language-models, machine-learning, science, sociotechnical-systems]
 medium: https://medium.com/@dallascard/report-from-facct-2022-eebdb51bc409
 summary: "The fifth iteration of FAccT (the ACM Conference on Fairness, Accountability, and Transparency) was held earlier this month (June 21–24) in Seoul, South Korea. More than just a hybrid conference, this was actually a full in-person conference, combined with a full on-line conference. These happened in parallel, with virtual sessions starting before and continuing after the in-person component each day. Around 500 people attended in person, with another 500 participating remotely."
 ---
