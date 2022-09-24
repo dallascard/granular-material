@@ -4,8 +4,8 @@ date: 2022-09-23T10:39:28-04:00
 draft: false
 tags: [machine-learning, large-language-models, twitter, bots, sociotechnical-systems]
 images: ["/img/remote-work-bot/header.png"]
+description: "For anyone who missed it, a Twitter account named @mkualquiera recently deployed what seems like a kind of adversarial attack in the wild on a large language model (LLM)-based Twitter bot."
 ---
-
 
 For anyone who missed it, a Twitter account named @mkualquiera recently deployed what seems like a kind of adversarial attack in the wild on a large language model (LLM)-based Twitter bot. I'll link to the key post below, but it's worth providing a bit of context, as it wasn't immediately clear to me what was going on when I first saw the tweet.
 
