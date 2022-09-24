@@ -6,11 +6,14 @@ tags: [machine-learning, large-language-models, twitter, bots, sociotechnical-sy
 ---
 
 
-For anyone who missed it, a Twitter account named [@mkualquiera](https://twitter.com/mkualquiera) recently deployed what seems like a kind of adversarial attack in the wild on a large language model (LLM)-based Twitter bot. I'll link to the key post below, but it's worth providing a bit of context, as it wasn't immediately clear to me what was going on when I first saw the tweet.
+For anyone who missed it, a Twitter account named @mkualquiera recently deployed what seems like a kind of adversarial attack in the wild on a large language model (LLM)-based Twitter bot. I'll link to the key post below, but it's worth providing a bit of context, as it wasn't immediately clear to me what was going on when I first saw the tweet.
+
+{{< figure src="/img/remote-work-bot/header.png">}}
+
+<!--more-->
 
 The bot itself ([@remoteli_io](https://twitter.com/remoteli_io)) claims it "helps you discover remote jobs which allow you to work from anywhere". Developed by an account named [@stephandev](https://twitter.com/stephandev), and based on OpenAI (so presumably using GPT-3), the bot's twitter account was created in May 2022. (There is also an associated [website](https://remoteli.io/blog) with a first blog post from March of this year, but that has not been updated since April.)
 
-{{< figure src="/img/remote-work-bot/header.png" link="https://twitter.com/remoteli_io">}}
 
 Looking at the bot's feed of tweets, it's mostly a listing of remote work opportunities. If you check its replies from before September 15th, however, it's clear it was responding (presumably automatically) to tweets related to "remote work" and similar terms.
 
