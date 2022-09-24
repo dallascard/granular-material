@@ -3,6 +3,7 @@ title: "Hacking LLM bots"
 date: 2022-09-23T10:39:28-04:00
 draft: false
 tags: [machine-learning, large-language-models, twitter, bots, sociotechnical-systems]
+images: ["/img/remote-work-bot/header.png"]
 ---
 
 
