@@ -6,4 +6,4 @@ slug = "about"
 
 +++
 
-This blog is about exploring topics related to science, technology, and culture in slightly more detail than is reasonable. It is written by [Dallas Card](https://dallascard.github.io) 
+This blog is about exploring topics related to science, technology, and culture in slightly more detail than is reasonable. Written by [Dallas Card](https://dallascard.github.io) 
