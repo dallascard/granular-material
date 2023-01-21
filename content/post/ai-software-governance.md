@@ -2,7 +2,7 @@
 title: "AI, software, and governance"
 date: 2022-12-12T18:48:06-05:00
 draft: false
-tags: [artificial-intelligence,machine-learning,algorithmic-decision-making,governance,sofware,large-language-models,sociotechnical-systems,power]
+tags: [artificial-intelligence,machine-learning,algorithmic-decision-making,governance,software,large-language-models,sociotechnical-systems,power]
 summary: In a recent article covering the FTX collapse, the New York Times described large language models (LLMs) as "an increasingly powerful breed of A.I. that can write tweets, emails and blog posts and even generate computer programs." There is a lot that we could pick apart in this definition (e.g., what makes LLMs part of a "breed", what distinguishes the ability to write an email as opposed to a blog post, etc.), but for the moment I'd like to focus on the term "A.I." (henceforth "AI"). Referring to LLMs as an example of AI is certainly not atypical. Indeed, it increasingly seems like LLMs have become one of the modern canonical examples of this concept. But why is it that we think of these systems as members of this category? And how much rhetorical work is being done by referring to LLMs as a type of "AI", as opposed to "models", "programs", "systems", or other similar categories?
 ---
 
