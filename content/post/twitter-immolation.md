@@ -1,5 +1,5 @@
 ---
-title: "The Slow Death of Twitter as a Natural Resource"
+title: "The Gradual Disappearance of Twitter"
 date: 2023-06-11T10:42:43-04:00
 tags: ["twitter", "archives", "sociotechnical-systems", "reproducibility", "change", "instability"]
 draft: false
