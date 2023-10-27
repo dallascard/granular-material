@@ -25,7 +25,7 @@ Possibly his first foray into generative art was his [WDCH Dreams](https://www.l
 
 More recently, his [Unsupervised — Machine Hallucinations](https://refikanadol.com/works/unsupervised/) was exhibited at MoMA in New York, which he claimed was the first piece of AI art exhibited and acquired by the museum. A variation on many of his other works using GANs, this large wall projection is based on the MoMA's collection of art works and metadata, but has the goal of never reproducing any of those works exactly. Following the same idea, this project uses the motion of visitors and local weather data to guide the generation of images. This idea of transducing one modality of data into another has remained consistent throughout, with only relatively minor variations.
 
-{{< youtube bQFtte7JASo&t >}}
+{{< youtube bQFtte7JASo >}}
 
 It's quite understandable why Anadol would reuse this technique multiple times. Given that the imagery itself can be quite abstract, claiming it has been grounded in some sort of data perhaps gives it more emotional or intellectual heft. On the other hand, now that so much of our life has been datafied, it's unclear how much novelty remains here. One might expect something that tracked the audience's movement to have more resonance with concerns about surveillance and nudges, but perhaps all that too is now passé.
 
