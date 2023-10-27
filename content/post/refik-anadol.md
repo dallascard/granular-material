@@ -1,6 +1,6 @@
 ---
 title: "Refik Anadol"
-date: 2023-10-26T11:05:12-04:00
+date: 2023-10-25T11:05:12-04:00
 draft: false
 tags: ['machine-learning', 'artificial-intelligence', 'archives', 'visualization', 'memory', 'art', 'refik-anadol', 'zach-leiberman']
 ---
