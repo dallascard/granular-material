@@ -2,7 +2,7 @@
 title: Ubi Sunt
 date: 2023-09-17T13:05:18-04:00
 draft: false
-tags: [machine-learning, large-language-models, archives, books, fiction, memory, mortality, preservation]
+tags: [machine-learning, large-language-models, archives, books, fiction, memory, mortality, digital-preservation]
 ---
 
 There is a duality at the heart of large language models. On the one hand, they are essentially a backwards-looking invention, a ["cultural technology"](https://www.youtube.com/live/k7rPtFLH6yw?si=bD6ir6cwtpOtEV0i), in the words of Alison Gopnik---algorithms which index and remix a large slice of human culture (though one that is typically heavily biased towards the recent past). On the other hand, they can often seem to be producing something entirely new, and can thereby leave many people with the impression of having a personality or even "sentience" (whatever that means exactly); in the most extreme cases, [some people](https://youtu.be/NgHFMolXs3U?si=gfKBPeOlEhQeDdEg) have apparently convinced themselves that such models are a step on the path towards some sort of successor species to humanity, a new regime of algorithmic children that will survive our own human catastrophes. Complicating matters here is the fact that the emergence of and widespread attention to these systems largely overlapped with the Covid-19 pandemic, a time in which we have all had additional reason to reflect on life, death, loss, and creation.

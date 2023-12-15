@@ -2,7 +2,7 @@
 title: "Reproducibility in Art and Science"
 date: 2017-06-05T20:43:20-05:00
 draft: false
-tags: ['reproducibility', 'art', 'science', 'digital', 'preservation', 'open-science']
+tags: ['reproducibility', 'art', 'science', 'digital-preservation', 'open-science']
 medium: https://dallascard.medium.com/reproducibility-in-art-and-science-fd5b7b10fd01
 ---
 
