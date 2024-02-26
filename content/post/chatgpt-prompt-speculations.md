@@ -3,6 +3,7 @@ title: "ChatGPT Prompt Speculations"
 date: 2024-02-22T10:00:26-05:00
 draft: false
 tags: ["chatgpt", "large-language-models", "reproducibility", "augmented-reality-games"]
+summary: "In a recent tweet that went viral, Dylan Patel claimed to have discovered or revealed the ChatGPT prompt, using a simple hack. The tweet included a link to a text file on pastebin and a screenshot of that same text with newlines removed. More interestingly, the author suggested in a reply that anyone could replicate this finding, and a subsequent tweet included a video of ChatGPT generating text in response to the same trick. That, however, is where things get somewhat strange."
 ---
 
 
