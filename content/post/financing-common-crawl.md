@@ -29,9 +29,7 @@ What this misses is just how much money Elbaz has poured into the enterprise. Be
 
 Using the [tax filings data](https://projects.propublica.org/nonprofits/organizations/261635908) available from ProPublica, we can see that Elbaz has donated, through his foundation, around 4 million dollars to Common Crawl over the decade and a half from 2007 through 2022. An additional $155,000 was donated by Microsoft (in two chunks) about midway through that period. That, however, is the total sum of contributions that the non-profit has received up through 2022. 
 
-<center>
 {{< figure src="/img/financing-common-crawl/cc_funding.png" caption="Common Crawl Funding (2007-2022)." link="/data/cc-funding.csv">}}
-</center>
 
 On the one hand, four million dollars is a remarkably small amount of money, considering the impact that Common Crawl has had in recent years. It is becoming routine to hear about engineers working for OpenAI with high six- or even seven-figure salaries, and single LLM training runs now sometimes cost in the tens (or even hundreds) of millions of dollars, just to cover the cost of computation. From that perspective, $4 million seems like a drop in the bucket for a piece of infrastructure that has become such an important part of the LLM ecosystem.
 
