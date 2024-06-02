@@ -4,7 +4,10 @@ date: 2017-05-21T20:47:34-05:00
 draft: false
 tags: ['archives', 'writing', 'technology']
 medium: https://dallascard.medium.com/the-self-archiving-machine-bec503d95d1e
+summary: "What lies in store for this post? As I write this, it exists in a strange space — not yet public, yet already part of an archive, of a kind. Perhaps it cannot yet even be properly called a post, (since it has not yet been posted), and yet it is there for me to read and edit, part of my collection of unpublished stubs, stored on the Medium servers along with who knows what metadata."
 ---
+
+*Note: This post was originally published to [Medium](https://medium.com/@dallascard/the-self-archiving-machine-bec503d95d1e), and was later ported here, as with many of the older posts on this blog.*
 
 What lies in store for this post? As I write this, it exists in a strange space — not yet public, yet already part of an archive, of a kind. Perhaps it cannot yet even be properly called a post, (since it has not yet been posted), and yet it is there for me to read and edit, part of my collection of unpublished stubs, stored on the Medium servers along with who knows what metadata.
 
