@@ -2,7 +2,7 @@
 title: "Stability and Change"
 date: 2022-03-12T17:40:34-05:00
 draft: false
-tags: ["archives", "software", "stability", "change"]
+tags: ["archives", "software", "wayback-machine", "stability", "change"]
 ---
 
 One of the biggest frustrations with software is that things are constantly changing. From operating systems to apps to web interfaces, things rarely remain the same for very long, especially for users of Windows or MacOS.
