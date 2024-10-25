@@ -15,7 +15,7 @@ At the same time, it was a useful wakeup call to me as to the state of knowledge
 
 That last reaction seems to be the most important. For anyone who had been paying attention (which, to be fair, would have been hard to do well without some amount of expert knowledge), developments along these lines have gradually been gathering steam over the past few years. Most of the shock that is now being felt in response to ChatGPT was previously experienced by the research community with the release of GPT-3, or perhaps earlier.
 
-The fact that the public has now become more aware of the state of things is clearly a good thing, given that these technologies do have the potential to impact society in major ways (although much of the coverage remains dismally misleading). Nevertheless, for someone more on the inside f things, it's hard not to feel like the public response is vastly disproportionate to the scale of change that has taken place from one moment to the next. 
+The fact that the public has now become more aware of the state of things is clearly a good thing, given that these technologies do have the potential to impact society in major ways (although much of the coverage remains dismally misleading). Nevertheless, for someone more on the inside of things, it's hard not to feel like the public response is vastly disproportionate to the scale of change that has taken place from one moment to the next. 
 
 In particular, it feels like there are two aspects of the ChatGPT release that should be getting far more attention than they are.
 
