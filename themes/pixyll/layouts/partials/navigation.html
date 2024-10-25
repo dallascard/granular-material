@@ -1,6 +1,6 @@
 <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/tags/">{{ "Tags" }}</a>
 <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/about/">{{ "About" }}</a>
-{{- if .Site.IsMultiLingual -}}
+{{- if .hugo.IsMultiLingual -}}
 {{- range $lang := .Site.Languages -}}
 {{- if ne $.Site.Language $lang -}}
 <a href="/{{ $lang }}">{{ $lang }}</a>
