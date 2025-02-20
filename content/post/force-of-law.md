@@ -64,7 +64,7 @@ Although we often take it for granted, the construction of any kind of reasonabl
 
 [^4]: According to Robert Caro, Lyndon Johnson was especially skilled at this act of politics---taking advantage of his greater knowledge of the rules of the Senate to pull off certain unexpected victories. See Caro's masterful *Master of the Senate* (2002).
 
-[^5]: In *The Second Creation* (2018), Jonathan Gienapp provides an excellent discussion of how the first secession of the U.S. Congress was immediately faced with trying to deal with the many ambiguities in the U.S. Constitution, and even trying to make sense of what *kind of thing* the Constitution was.
+[^5]: In *The Second Creation* (2018), Jonathan Gienapp provides an excellent discussion of how the first session of the U.S. Congress was immediately faced with trying to deal with the many ambiguities in the U.S. Constitution, and even trying to make sense of what *kind of thing* the Constitution was.
 
 [^6]: Cover, Robert M., "Violence and the Word" (1986). Faculty Scholarship Series. Paper 2708. [http://digitalcommons.law.yale.edu/fss_papers/270](http://digitalcommons.law.yale.edu/fss_papers/270)
 
