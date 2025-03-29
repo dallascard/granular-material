@@ -2,7 +2,7 @@
 title: "Peeping Tom, Triptych"
 date: 2025-03-28T23:55:54-04:00
 draft: false
-summary: "I don't go to see much in the way of modern dance, but on a whim, I decided to get tickets to the Power Center to see *Triptych*, a performance developed by the Peeping Tom dance company from Belgium. Comprised of three pieces---*The Missing Door*, *The Lost Room* and *The Hidden Floor*---created in 2013, 2015, and 2017, respectively, the performance ran just over two hours, including a partial intermission. This post is a bit of a break from what I've been writing lately, but it feels worth highlighting, if only to help keep at least some attention on artistic endeavours. Just as a warning, I have not refrained from spoiling anything in here, so you might want to stop reading if you're planning to see it and want the full effect."
+summary: "I don't go to see much in the way of contemporary dance, but on a whim, I decided to get tickets to the Power Center to see *Triptych*, a performance developed by the Peeping Tom dance company from Belgium. Comprised of three pieces---*The Missing Door*, *The Lost Room* and *The Hidden Floor*---created in 2013, 2015, and 2017, respectively, the performance ran just over two hours, including a partial intermission. This post is a bit of a break from what I've been writing lately, but it feels worth highlighting, if only to help keep at least some attention on artistic endeavours. Just as a warning, I have not refrained from spoiling anything in here, so you might want to stop reading if you're planning to see it and want the full effect."
 tags: ['theater', 'dance', 'surrealism', 'horror', 'performance']
 ---
 
