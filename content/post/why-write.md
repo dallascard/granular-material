@@ -2,7 +2,7 @@
 title: "Why Write?"
 date: 2025-09-01T16:22:27-04:00
 draft: false
-tags: ["writing", "archives", "large-language-models", "chatgpt", "data", "culture", "accountability", "michel-foucault"]
+tags: ["writing", "archives", "large-language-models", "chatgpt", "data", "culture", "accountability", "tyler-cowen", "michel-foucault"]
 ---
 
 
