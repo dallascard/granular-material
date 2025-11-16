@@ -1,6 +1,6 @@
 <nav class="social-icons icons">
 <a href="/index.xml"><img alt="RSS" src="/images/icons/rss.png"></a>
-{{ if isset .Site.Params "twitter_username" }}
-<a href="https://twitter.com/{{ .Site.Params.twitter_username }}"><img src="/images/icons/twitter.png" alt="Twitter"></a>
+{{ if isset .Site.Params "bsky_username" }}
+<a href="https://bsky.app/profile/{{ .Site.Params.bsky_username }}"><img src="/images/icons/bsky.png" alt="Bluesky"></a>
 {{ end }}
 </nav>

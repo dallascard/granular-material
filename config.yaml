@@ -19,6 +19,7 @@ taxonomies:
 params:
     mainSections: ["post"]
     twitter_username: "dallascard"
+    bsky_username: "dallascard.bsky.social"
     paginate: 10
     google_analytics_id: "G-EL45TK68M9"
 
