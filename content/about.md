@@ -1,5 +1,5 @@
 +++
-date = "2022-08-01T16:42:18+04:00"
+date = "2025-08-01T16:42:18+04:00"
 draft = false
 title = "About"
 slug = "about"
