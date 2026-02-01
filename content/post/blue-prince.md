@@ -58,6 +58,6 @@ The one sad thing with puzzle games is that, compared to some other genres, it's
 
 [^8]: Although I don't think there is necessarily a direct connection, it was a similarly delightful and eerie experience to have read *Piranesi*, by Susanna Clarke, during the time I was playing *Blue Prince*. With the right mindset, the parallels seem almost uncanny, with both featuring an extensive, shape-shifting, sometimes flooded mansion, populated by a handful of other characters who are not necessarily what they seem. While reading, I was thinking this was probably just a coincidence, until I came across a mention of the "AQUARIUM" (in all caps), immediately in the context of a description of several colours...
 
-[^9]: Although it's outside of the game, it's also worth highlighting a [video](https://vimeo.com/198482219) from nine years ago on Ros' Vimeo channel, which does a beautiful job illustrating the delightful concept of Ambigrams, also invented by Hofstadter. 
+[^9]: Although it's outside of the game, it's also worth highlighting a [video](https://vimeo.com/198482219) from nine years ago on Ros' Vimeo channel, which does a beautiful job illustrating the delightful concept of [ambigrams](https://en.wikipedia.org/wiki/Ambigram), also invented by Hofstadter. 
 
 
