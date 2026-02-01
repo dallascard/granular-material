@@ -2,7 +2,7 @@
 title: "Elbow Room"
 date: 2017-03-31T20:52:03-05:00
 draft: false
-tags: ['free-will', 'Dennett', 'books']
+tags: ['free-will', 'daniel-dennett', 'douglas-hofstadter', 'books']
 medium: https://dallascard.medium.com/elbow-room-by-daniel-dennett-c0e6fba3ee0e
 ---
 
