@@ -3,13 +3,13 @@ title: "Moltbook as Totemic Schelling Point"
 date: 2026-04-05T16:41:50-04:00
 draft: false
 tags: ["large-language-models", "agents", "sociotechnical-systems", "culture", "media-storms", "computational-social-science", "augmented-reality-games", "coordination", "communication", "infrastructure"]
-summary: "Every so often a story comes along that seems to be part of every conversation. The release of ChatGPT was a prime example of this. More recently, it felt like Moltbook managed to achieve a similar kind of virality (albeit at a much smaller scale). I almost can't believe I'm writing about this now too, given that I am one of those who felt (and still feels) like the whole Moltbook saga was massively overhyped, and very possibly misunderstood by many of the people who were most excited about it. Obviously in devoting a post to this topic, I am only further feeding into the attention given to something that mildly annoys me. And yet, I nevertheless think it's interesting to reflect on what made it into a kind of engine of public discourse. ↳"
+summary: "Every so often a story comes along that seems to be part of every conversation. The release of ChatGPT was a prime example of this, given how it dominated discussions for months after release. More recently, it felt like Moltbook managed to achieve a similar kind of virality, albeit at a much smaller scale. I almost can't believe I'm writing about this now too, given that I am one of those who felt (and still feels) like the whole Moltbook saga was extremely overhyped, and very possibly misunderstood by many of the people who were most excited about it. And yet, I nevertheless think it's interesting to reflect on what made it briefly into a kind of engine of public discourse. ↳"
 ---
 
 
-Every so often a story comes along that seems to be part of every conversation. The release of ChatGPT was a prime example of this. More recently, it felt like Moltbook managed to achieve a similar kind of virality (albeit at a much smaller scale).
+Every so often a story comes along that seems to be part of every conversation. The release of ChatGPT was a prime example of this, given how it dominated discussions for months after release. More recently, it felt like [Moltbook](https://en.wikipedia.org/wiki/Moltbook) managed to achieve a similar kind of virality, albeit at a much smaller scale.
 
-I almost can't believe I'm writing about this now too, given that I am one of those who felt (and still feels) like the whole Moltbook saga was massively overhyped, and very possibly misunderstood by many of the people who were most excited about it. Obviously in devoting a post to this topic, I am only further feeding into the attention given to something that mildly annoys me. And yet, I nevertheless think it's interesting to reflect on what made it into a kind of engine of public discourse.[^1] 
+I almost can't believe I'm writing about this now too, given that I am one of those who felt (and still feels) like the whole Moltbook saga was extremely overhyped, and very possibly misunderstood by many of the people who were most excited about it. And yet, I nevertheless think it's interesting to reflect on what made it briefly into a kind of engine of public discourse.[^1] 
 
 It's true of course that Moltbook in some ways demonstrated a kind of "emergent" behavior. It also clearly revealed how bad many people are at taking security seriously. But that all seemed to be so precisely what we would have expected, that the specific excitement around it seemed extremely overblow. Combine that with the branding as a "social network for bots", the lack of protection against human interference, a shady crypto connection, and some obvious bits of high profile hype, and it all seemed rather silly.
 
@@ -40,6 +40,6 @@ To vibe check this, I ran it by Claude, and got this response:
 Indeed, that's basically it exactly!
 
 
-[^1]: Hopefully the fact that our attention has now largely moved on also protects me at least somewhat from charges of acting in bad faith.
+[^1]: Obviously in devoting a post to this topic, I am only further feeding into the attention given to something that mildly annoys me. Hopefully the fact that our attention has now largely moved on also protects me at least somewhat from charges of acting in bad faith.
 
 [^2]: The classic example of a Schelling point is of course trying to think of where in a city you would choose to meet someone if you two became separated; you need to choose the location that they would also choose, which depends on what you would choose, and so on. The equilibrium of this situation leads one to something that will probably be a kind of "obvious" choice, with the classic examples for New York being something like Times Square or Grand Central Station.
