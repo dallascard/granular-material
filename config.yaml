@@ -23,4 +23,6 @@ params:
     paginate: 10
     google_analytics_id: "G-EL45TK68M9"
 
+author:
+    name: "Dallas Card"
 
