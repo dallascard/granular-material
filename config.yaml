@@ -26,3 +26,8 @@ params:
 author:
     name: "Dallas Card"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
