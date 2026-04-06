@@ -2,7 +2,7 @@
 title: "Moltbook as Totemic Schelling Point"
 date: 2026-04-05T16:41:50-04:00
 draft: false
-tags: ["large-language-models", "agents", "sociotechnical-systems", "culture", "media-storms", "computational-social-science", "augmented-reality-games", "coordination", "communication", "infrastructure"]
+tags: ["large-language-models", "agents", "sociotechnical-systems", "culture", "media-storms", "computational-social-science", "coordination", "communication", "infrastructure"]
 summary: "Every so often a story comes along that seems to be part of every conversation. The release of ChatGPT was a prime example of this, given how it dominated discussions for months after release. More recently, it felt like Moltbook managed to achieve a similar kind of virality, albeit at a much smaller scale. I almost can't believe I'm writing about this now too, given that I am one of those who felt (and still feels) like the whole Moltbook saga was extremely overhyped, and very possibly misunderstood by many of the people who were most excited about it. And yet, I nevertheless think it's interesting to reflect on what made it briefly into a kind of engine of public discourse. ↳"
 ---
 
@@ -23,7 +23,7 @@ At the same time, it doesn't feel like the idea of media storms quite captures a
 
 To me, the two most interesting features that are characteristic of this type of phenomenon are:
 
-1. Most people seem to be talking about it because everyone else is talking about it.
+1. Most people are talking about it because everyone else is talking about it.
 2. The details of what is happening are less important than the ways in which it could be seen as signifying something bigger, or allows people to read their own narrative into it.
 
 In the case of Moltbook, many people seem to have been captivated by the idea that agents' posts (e.g., about philosophy, or opinions about humanity) perhaps implied or pointed to some sense of intent or interiority. For others, it was more about imagining what might happen. Regardless, it seems like the details about what specific conversations were happening on the site mattered less than the fact that they allowed people to speculate about what it might mean for the future of agents, or potential security risks, or social science simulations, or as a preview of self-reflective agents collectively scheming to take over the world, and so on. It goes without saying that what someone chooses to read into an experiment with Moltbook will have a lot to do with one's concerns and expectations about how AI will unfold in the future.
