@@ -30,3 +30,9 @@ markup:
     renderer:
       unsafe: true
 
+security:
+  allowContent:
+    - "^text/markdown$"
+    - "^text/html$"
+
+
