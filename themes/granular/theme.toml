@@ -1,0 +1,7 @@
+name = "granular"
+description = "A simple, beautiful theme for Hugo, forked from Pixyll."
+author = "Dallas Card"
+license = "MIT"
+source_repo = "https://github.com/dallascard/granular-material"
+tags = ["blog", "personal", "minimal"]
+min_version = 0.149

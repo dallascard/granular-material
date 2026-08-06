@@ -1,7 +1,7 @@
 baseURL: https://dallascard.github.io/granular-material/
-languageCode: en-us
+locale: en-us
 title: Granular Material
-theme: pixyll
+theme: granular
 
 smartDashes: true
 
