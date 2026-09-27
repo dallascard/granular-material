@@ -3,3 +3,7 @@
 */*/.DS_Store
 
 .hugo_build.lock
+
+# Hugo build output (the deploy workflow builds this itself)
+public/
+resources/_gen/

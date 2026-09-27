@@ -9,10 +9,6 @@ relativeurls: true
 canonifyurls: true
 contentDir: "content"
 
-blackfriday:
-    angledQuotes: true
-    hrefTargetBlank: true
-
 taxonomies:
     tag: "tags"
 
