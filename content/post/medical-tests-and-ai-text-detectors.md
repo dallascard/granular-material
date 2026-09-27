@@ -2,7 +2,7 @@
 title: "Medical Tests and AI Text Detectors"
 date: 2026-08-23T23:09:57-04:00
 draft: false
-tags: ["large-langauge-models", "artificial-intelligence", "sociotechnical-systems", "statistics", "measurement", "evaluation", "fiction", "medicine", "communication"]
+tags: ["large-language-models", "artificial-intelligence", "sociotechnical-systems", "statistics", "measurement", "evaluation", "fiction", "medicine", "communication"]
 summary: "I recently listened to a podcast episode where the host and a guest tried to explain the problem with medical tests that produce a lot of false positives, such as various screenings that are used for certain types of cancer. Despite both being smart and capable people, they did an impressively bad job at this, and I suspect they left much of the audience either confused or misinformed.
 
 Part of the problem was that they jumped immediately to using terms like sensitivity and specificity, as well as Type-I / Type-II errors, without properly defining what these mean. They also chose to frame this using a Bayesian explanation, using terms like prior and posterior, even though it's arguably simpler to explain things in frequentist terms. But part of the problem is that this is a legitimately complicated issue to explain to a general audience, especially in audio. ↳"
