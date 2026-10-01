@@ -1,0 +1,166 @@
+/* Additions and overrides on top of Pixyll's combined-min.css. */
+
+/* Tables */
+
+table {
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.85em;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 0.5em 0.75em;
+  text-align: left;
+}
+
+th {
+  background-color: #f3f3f3;
+  color: #333;
+  font-weight: 700;
+}
+
+tr:nth-child(even) td {
+  background-color: #fafafa;
+}
+
+/* Archive */
+
+.archive-year {
+  font-size: 1.625rem;
+  margin-top: 1.5em;
+}
+
+.archive-list li {
+  margin-bottom: 0.25em;
+}
+
+.archive-date {
+  display: inline-block;
+  min-width: 4.5em;
+}
+
+/* Search (Pagefind UI) */
+
+#search {
+  --pagefind-ui-font: inherit;
+  --pagefind-ui-primary: #0096cc;
+  --pagefind-ui-text: #333;
+  --pagefind-ui-background: #fff;
+  --pagefind-ui-border: #ddd;
+  --pagefind-ui-tag: #f3f3f3;
+}
+
+/* Dark mode, following the reader's system setting */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ddd;
+    background-color: #1a1a1a;
+  }
+
+  p {
+    color: #ddd;
+  }
+
+  a {
+    color: #4cb8e0;
+  }
+
+  a:hover {
+    color: #7fcbe8;
+  }
+
+  .site-header a,
+  .post-link .post-title {
+    color: #eee;
+  }
+
+  .site-header nav a {
+    color: #aaa;
+  }
+
+  .site-header nav a:hover {
+    color: #ddd;
+    border-bottom-color: #ddd;
+  }
+
+  .meta,
+  .post-meta,
+  code {
+    color: #999;
+  }
+
+  blockquote {
+    border-left-color: #666;
+  }
+
+  blockquote footer {
+    background-color: transparent;
+    color: #999;
+  }
+
+  abbr {
+    border-bottom-color: #ddd;
+  }
+
+  .posts .post,
+  .related-post-title,
+  footer {
+    border-color: #333;
+  }
+
+  footer,
+  footer .wrap {
+    color: #999;
+    background-color: #141414;
+  }
+
+  .pagination a,
+  .pagination .disabled {
+    background: #262626;
+    border-color: #333;
+    color: #ddd;
+  }
+
+  .pagination a:hover,
+  .pagination a:focus {
+    background: #1a1a1a;
+    color: #4cb8e0;
+  }
+
+  .pagination a:active {
+    background: #222;
+  }
+
+  th,
+  td {
+    border-color: #444;
+  }
+
+  th {
+    background-color: #2a2a2a;
+    color: #eee;
+  }
+
+  tr:nth-child(even) td {
+    background-color: #202020;
+  }
+
+  /* Embedded Vega and Bokeh charts are drawn for a light background. */
+  .vega-embed,
+  [data-root-id] {
+    background-color: #fff;
+  }
+
+  #search {
+    --pagefind-ui-primary: #4cb8e0;
+    --pagefind-ui-text: #ddd;
+    --pagefind-ui-background: #1a1a1a;
+    --pagefind-ui-border: #444;
+    --pagefind-ui-tag: #2a2a2a;
+  }
+}
