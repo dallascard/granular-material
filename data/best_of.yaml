@@ -1,0 +1,4 @@
+# Posts featured on the "Best of" page, in the order they should appear.
+# Each entry is a post's filename in content/post/, without the extension,
+# e.g. "why-write" for content/post/why-write.md.
+posts: ["financing-common-crawl", "language-model-hacking", "openai-library", "chatgpt-prompt-speculations", "ubi-sunt", "force-of-law"]

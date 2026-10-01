@@ -3,7 +3,7 @@ title: "Financing Common Crawl"
 date: 2024-03-31T20:08:01-04:00
 draft: false
 tags: ["common-crawl", "knowledge-infrastructure", "large-language-models", "archives", "digital-preservation", "wayback-machine", "data", "power"]
-summary: "Mozilla recently published an excellent new report out about Common Crawl, the non-profit whose web crawls have played an important role in the development of numerous large language models (LLMs). Written by Stefan Baack and Mozilla Insights, the report is based on both public documents and new interviews with Common Crawl's current director and crawl engineer, and goes into some detail about the history of the organization, and how its data is being used."
+summary: "Mozilla recently published an excellent new report out about Common Crawl, the non-profit whose web crawls have played an important role in the development of numerous large language models (LLMs). Written by Stefan Baack and Mozilla Insights, the report is based on both public documents and new interviews with Common Crawl's current director and crawl engineer, and goes into some detail about the history of the organization, and how its data is being used. ↳"
 ---
 
 *Updated June 1, 2024: I have modified and updated this post in response to an email I received from Greg Lindahl, CTO of Common Crawl. The complete post history can be found [here](https://github.com/dallascard/granular-material/blob/main/content/post/financing-common-crawl.md).*

@@ -4,4 +4,4 @@ author = "Dallas Card"
 license = "MIT"
 source_repo = "https://github.com/dallascard/granular-material"
 tags = ["blog", "personal", "minimal"]
-min_version = 0.149
+min_version = 0.158

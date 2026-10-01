@@ -7,3 +7,6 @@
 # Hugo build output (the deploy workflow builds this itself)
 public/
 resources/_gen/
+
+# Local copy of the search index, for previewing search with `hugo server`
+static/pagefind/

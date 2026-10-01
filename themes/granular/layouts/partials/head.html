@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.Language.Locale }}">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{{ .Title }} - {{ .Site.Title }}</title>
+  <meta name="color-scheme" content="light dark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -11,7 +12,8 @@
   <link rel="canonical" href="{{ .Permalink }}">
 
   <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/combined-min.css">
-  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/tables.css">
+  {{ if eq .Layout "search" }}<link rel="stylesheet" type="text/css" href="{{ "pagefind/pagefind-ui.css" | relURL }}">{{ end }}
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/granular.css">
 
 </head>
 <body class="">

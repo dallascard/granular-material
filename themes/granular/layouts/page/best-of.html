@@ -1,0 +1,26 @@
+{{ partial "head.html" . }}
+<div class="site-wrap">
+  {{ partial "header.html" . }}
+  <div class="post p2 p-responsive wrap" role="main">
+    <div class="measure">
+      <div class="post-header mb2">
+        <h1 class="py2">{{ .Title }}</h1>
+      </div>
+
+      {{ with .Content }}<article class="post-content">{{ . }}</article>{{ end }}
+
+      <div class="posts">
+      {{ range hugo.Data.best_of.posts }}
+        {{ with site.GetPage (printf "/post/%s" .) }}
+          {{ .Render "summary" }}
+        {{ else }}
+          {{ errorf "data/best_of.yaml: no post named %q in content/post/" . }}
+        {{ end }}
+      {{ else }}
+        {{ warnf "data/best_of.yaml has no posts listed, so the Best of page is empty" }}
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}

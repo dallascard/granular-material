@@ -1,0 +1,9 @@
+{{ $posts := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ range $posts.GroupByDate "2006" }}
+<h2 class="archive-year">{{ .Key }}</h2>
+<ul class="archive-list list-simple">
+  {{ range .Pages }}
+  <li><span class="post-meta archive-date">{{ .Date.Format "Jan 2" }}</span> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
