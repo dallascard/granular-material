@@ -34,35 +34,6 @@
 &lt;/ol&gt;
 &lt;/div&gt;</description></item><item><title>What is a Podcast?</title><link>https://dallascard.github.io/granular-material/post/sporc/</link><pubDate>Sat, 16 Nov 2024 19:34:55 -0500</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/sporc/</guid><description>
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
  Bokeh.set_log_level("info");
@@ -70,9 +41,6 @@
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
 &lt;p&gt;What is a podcast? I expect we all have our own slightly idiosyncratic answer to that question. For me, podcasts are defined partly by some software I use on my phone that regularly downloads audio files from various feeds, which I periodically listen to, often as I'm doing other things. Most of these recordings feature two or more people engaged in a long-form conversation. Some of these take the form of interviews, in which a regular host interviews a rotating series of guests. Others feature rotating subsets of the same group of hosts, talking together about various issues. A few shows, like &lt;i&gt;Hardcore History&lt;/i&gt;, are just long monologues, not so different from an audiobook.&lt;/p&gt;
 
 &lt;p&gt;For you it may be different. Some of the available feeds feature narrative content. Others are primarily music. A popular form of podcast is something like highly-produced audio journalism or documentaries, with one or more hosts reporting out a story, featuring interviews, audio clips, sound effects, and re-creations. Clearly all of these, especially the last, bear some relation to traditional radio, except that they can be listened to on demand, rather than broadcast. And yet, increasingly people seem to refer to things like video series on YouTube as podcasts, even if they are not delivered via a dedicated audio feed. Others apparently primarily consume podcasts in written form, only reading transcripts, rather than ever listening to a show.&lt;/p&gt;
@@ -128,8 +96,7 @@
 
 &lt;p&gt;However, probably the biggest limitation here is that these numbers tell us nothing about popularity. It &lt;i&gt;could&lt;/i&gt; be, for example, that true crime is an extremely popular genre to listen to, but that there aren't that many shows devoted to it. To me, that would be surprising, given that I would expect supply to largely follow demand, but perhaps the cost of creating such a show is high, or it is effectively impossible to compete with the best known shows. By contrast, perhaps recording a show about a particular fandom is relatively low cost for the hosts (in terms of their time), and they are doing it without expecting to find a large audience.&lt;/p&gt;
 
-&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;
-</description></item><item><title>Financing Common Crawl</title><link>https://dallascard.github.io/granular-material/post/financing-common-crawl/</link><pubDate>Sun, 31 Mar 2024 20:08:01 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/financing-common-crawl/</guid><description>&lt;p&gt;&lt;em&gt;Updated June 1, 2024: I have modified and updated this post in response to an email I received from Greg Lindahl, CTO of Common Crawl. The complete post history can be found &lt;a href="https://github.com/dallascard/granular-material/blob/main/content/post/financing-common-crawl.md"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;</description></item><item><title>Financing Common Crawl</title><link>https://dallascard.github.io/granular-material/post/financing-common-crawl/</link><pubDate>Sun, 31 Mar 2024 20:08:01 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/financing-common-crawl/</guid><description>&lt;p&gt;&lt;em&gt;Updated June 1, 2024: I have modified and updated this post in response to an email I received from Greg Lindahl, CTO of Common Crawl. The complete post history can be found &lt;a href="https://github.com/dallascard/granular-material/blob/main/content/post/financing-common-crawl.md"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla recently published an excellent new &lt;a href="https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/"&gt;report&lt;/a&gt; about Common Crawl, the non-profit whose web crawls have played an important role in the development of numerous large language models (LLMs). Written by Stefan Baack and Mozilla Insights, the report is based on both public documents and new interviews with Common Crawl&amp;rsquo;s current director and crawl engineer, and goes into some detail about the history of the organization, and how its data is being used.&lt;/p&gt;
 &lt;p&gt;As I have written &lt;a href="https://www.sciencedirect.com/science/article/pii/S2666389924000746"&gt;elsewhere&lt;/a&gt;, Common Crawl occupies a unique place in the LLM ecosystem. Although there are plenty of LLMs that have been trained using other data sources (including GPT-2, for which the creators directly scraped web pages linked from reddit), numerous landmark LLMs have used at least some Common Crawl data for pretraining.&lt;/p&gt;
 &lt;p&gt;The advantages of using Common Crawl for this purpose are obvious&amp;mdash;it is huge and broad, comprising many terabytes of text content scraped from the web.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt; As the name implies, this is a web &lt;em&gt;crawl&lt;/em&gt;&amp;mdash;starting from &lt;del&gt;a few&lt;/del&gt; billions of seeds, the crawlers follow links and save content as they go.&lt;sup id="fnref:2"&gt;&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref"&gt;2&lt;/a&gt;&lt;/sup&gt; Common Crawl&amp;rsquo;s focus is on collecting the &lt;a href="https://commoncrawl.github.io/cc-crawl-statistics/plots/mimetypes"&gt;raw HTML&lt;/a&gt; for web pages, rather than things like images or CSS files. This makes it very different from a more comprehensive web archive, such as the Internet Archive, which strives to maintain greater provenance, especially in the context of their &lt;a href="https://web.archive.org/web/"&gt;Wayback Machine&lt;/a&gt;. Using that service, it is possible to view and even interact with archived versions of web pages, similarly to how they would have appeared and functioned at many different points in the past.&lt;sup id="fnref:3"&gt;&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;

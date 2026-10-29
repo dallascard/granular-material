@@ -20,35 +20,6 @@
 &lt;/ol&gt;
 &lt;/div&gt;</description></item><item><title>What is a Podcast?</title><link>https://dallascard.github.io/granular-material/post/sporc/</link><pubDate>Sat, 16 Nov 2024 19:34:55 -0500</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/sporc/</guid><description>
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
  Bokeh.set_log_level("info");
@@ -56,9 +27,6 @@
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
 &lt;p&gt;What is a podcast? I expect we all have our own slightly idiosyncratic answer to that question. For me, podcasts are defined partly by some software I use on my phone that regularly downloads audio files from various feeds, which I periodically listen to, often as I'm doing other things. Most of these recordings feature two or more people engaged in a long-form conversation. Some of these take the form of interviews, in which a regular host interviews a rotating series of guests. Others feature rotating subsets of the same group of hosts, talking together about various issues. A few shows, like &lt;i&gt;Hardcore History&lt;/i&gt;, are just long monologues, not so different from an audiobook.&lt;/p&gt;
 
 &lt;p&gt;For you it may be different. Some of the available feeds feature narrative content. Others are primarily music. A popular form of podcast is something like highly-produced audio journalism or documentaries, with one or more hosts reporting out a story, featuring interviews, audio clips, sound effects, and re-creations. Clearly all of these, especially the last, bear some relation to traditional radio, except that they can be listened to on demand, rather than broadcast. And yet, increasingly people seem to refer to things like video series on YouTube as podcasts, even if they are not delivered via a dedicated audio feed. Others apparently primarily consume podcasts in written form, only reading transcripts, rather than ever listening to a show.&lt;/p&gt;
@@ -114,8 +82,7 @@
 
 &lt;p&gt;However, probably the biggest limitation here is that these numbers tell us nothing about popularity. It &lt;i&gt;could&lt;/i&gt; be, for example, that true crime is an extremely popular genre to listen to, but that there aren't that many shows devoted to it. To me, that would be surprising, given that I would expect supply to largely follow demand, but perhaps the cost of creating such a show is high, or it is effectively impossible to compete with the best known shows. By contrast, perhaps recording a show about a particular fandom is relatively low cost for the hosts (in terms of their time), and they are doing it without expecting to find a large audience.&lt;/p&gt;
 
-&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;
-</description></item><item><title>Bespoke Navigation</title><link>https://dallascard.github.io/granular-material/post/bespoke-navigation/</link><pubDate>Sun, 29 Sep 2024 16:51:57 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/bespoke-navigation/</guid><description>&lt;p&gt;I don&amp;rsquo;t normally do this, but I recently did a short bike trip in Michigan, and I thought I would write a brief post about it, in part because it cued various other ideas which have a more direct connection to the kinds of things I normally write about here.&lt;/p&gt;
+&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;</description></item><item><title>Bespoke Navigation</title><link>https://dallascard.github.io/granular-material/post/bespoke-navigation/</link><pubDate>Sun, 29 Sep 2024 16:51:57 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/bespoke-navigation/</guid><description>&lt;p&gt;I don&amp;rsquo;t normally do this, but I recently did a short bike trip in Michigan, and I thought I would write a brief post about it, in part because it cued various other ideas which have a more direct connection to the kinds of things I normally write about here.&lt;/p&gt;
 &lt;p&gt;The trip itself can be described succinctly. When a larger trip that I had planned with friends fell through, I decided to salvage the situation by doing a quick one-night solo tour. Starting in Ann Arbor, I took the Amtrak to Kalamazoo, and then rode from there to Saugatuck, on the coast of Lake Michigan. My route was mostly along the Kal-Haven trail, which connects Kalamazoo and South Haven, and then from there up the coast another twenty miles or so. I spent one night in Saugatuck, with just enough time to see a bit of the town, and then rode back to Kalamazoo the next day.&lt;/p&gt;
 &lt;p&gt;Although just putting in the miles and being in motion all day are sufficient rewards in themselves to justify the trip, it&amp;rsquo;s also tremendous fun to explore and have the experience of traversing the space.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt; In this case, an unexpected highlight ended up being a little Mexican food truck and grocery store in Grand Junction that a friend of a friend recommended.&lt;sup id="fnref:2"&gt;&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref"&gt;2&lt;/a&gt;&lt;/sup&gt; It was kind of surreal to find such a place in what felt, to me, like the middle of nowhere, but it was a total delight. In addition to some very good tacos, I also got what I&amp;rsquo;d say was the best tamale I&amp;rsquo;ve ever had.&lt;sup id="fnref:3"&gt;&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Overall, the Kal-Haven trail was quite impressive.&lt;sup id="fnref:4"&gt;&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref"&gt;4&lt;/a&gt;&lt;/sup&gt; It&amp;rsquo;s about 40 miles long, paved in a few places, but mostly dirt or gravel. It&amp;rsquo;s also in a forest corridor almost the whole way, which makes it quite beautiful for riding. That kind of dedicated trail is obviously a much safer alternative to riding on roads, since there are no cars to worry about, except at the occasional road crossing. On the other hand, it did get a little bit monotonous after a while, as there isn&amp;rsquo;t all that much variation in scenery, nor any particularly exciting places to stop. The infrastructure was great, with pretty frequent outhouses along the way, plus a few water pumps and bicycle tools, which are a very nice bonus. Overall, the maintenance was quite good, although in a few places people had added some very sand-like gravel fill that was not great for riding.&lt;/p&gt;
@@ -166,35 +133,6 @@
 &lt;/ol&gt;
 &lt;/div&gt;</description></item><item><title>Altair vs. Bokeh (part 3): Scatterplots</title><link>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/</link><pubDate>Sat, 22 Jun 2024 18:17:35 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/</guid><description>
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.4.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
@@ -203,10 +141,6 @@
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-
 &lt;h3&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;This is my third entry in a series comparing two interactive data visualization libraries for python, Bokeh and Altair. In &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/" target="_blank"&gt;part 1&lt;/a&gt;, I went through a basic overview of some of the differences in terms of syntactic style and defaults. In &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/" target="_blank"&gt;part 2&lt;/a&gt;, I went slightly deeper into some of the interactive features and more fundamental limitations. In this part, I want to deepen the comparison further, by exploring the basic capabilities each package offers with respect to a basic chart type, namely scatterplots.&lt;/p&gt;
@@ -847,14 +781,7 @@ else document.addEventListener("DOMContentLoaded", fn);
 
 &lt;p&gt;By contrast, it's &lt;i&gt;possible&lt;/i&gt; to create contour plots in Altair, but it's definitely a bit of a pain. First, you have to compute the contours using something like &lt;code&gt;contourpy&lt;/code&gt; or even &lt;code&gt;matplotlib&lt;/code&gt;. Then you have to convert those contours into lines or areas to be drawn by Altair. This isn't too bad, except that if you have two distinct contours to be drawn at the same level (such as for data that has a bimodal distribution), there doesn't seem to be a simple way to tell Altair to treat the two parts as separate lines (without connecting them), other than putting them on separate layers. Sadly, the problem is that it can sometimes be relatively inconvenient in Altair to simply add a line to a plot, compared to alternatives.&lt;/p&gt;
 
-&lt;p&gt;Ultimately, the more you try to push beyond previously unimagined use cases for Altair, the more likely you are to run into frustrations. However, the designers of Altair have done such an exceptional job of anticipating a wide range of potential uses, and integrating these seamlessly into the chart semantics, that overall Altair feels to me like a much better choice than Bokeh for most work in exploratory data visualization, as well as for many communicative visualizations. Bokeh still seems to command a larger audience (based on github stars and watchers), but the more time I spend with them, the more convinced I am that Altair is overall a nicer choice than Bokeh for most purposes.&lt;/p&gt;
-
-
-
-
-
-
-</description></item><item><title>Tightly-woven Cultural Commentary</title><link>https://dallascard.github.io/granular-material/post/interwoven_commentary/</link><pubDate>Thu, 14 Dec 2023 21:57:32 -0500</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/interwoven_commentary/</guid><description>&lt;p&gt;I recently started listening to the &lt;a href="https://www.artofthescore.com.au/"&gt;Art of the Score&lt;/a&gt; podcast, which does an amazing job of unpacking movie soundtracks in depth, beginning with Raiders of the Lost Ark in the first episode. Like most such explorations of music, however, it ultimately leaves me wanting something that I&amp;rsquo;ve long thought there should be much more of&amp;mdash;namely, more tightly interwoven cultural commentary, especially for music. As I will describe below, I&amp;rsquo;m broadly interested in different ways of combining context, commentary, and criticism with the thing being commented on or critiqued.&lt;/p&gt;
+&lt;p&gt;Ultimately, the more you try to push beyond previously unimagined use cases for Altair, the more likely you are to run into frustrations. However, the designers of Altair have done such an exceptional job of anticipating a wide range of potential uses, and integrating these seamlessly into the chart semantics, that overall Altair feels to me like a much better choice than Bokeh for most work in exploratory data visualization, as well as for many communicative visualizations. Bokeh still seems to command a larger audience (based on github stars and watchers), but the more time I spend with them, the more convinced I am that Altair is overall a nicer choice than Bokeh for most purposes.&lt;/p&gt;</description></item><item><title>Tightly-woven Cultural Commentary</title><link>https://dallascard.github.io/granular-material/post/interwoven_commentary/</link><pubDate>Thu, 14 Dec 2023 21:57:32 -0500</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/interwoven_commentary/</guid><description>&lt;p&gt;I recently started listening to the &lt;a href="https://www.artofthescore.com.au/"&gt;Art of the Score&lt;/a&gt; podcast, which does an amazing job of unpacking movie soundtracks in depth, beginning with Raiders of the Lost Ark in the first episode. Like most such explorations of music, however, it ultimately leaves me wanting something that I&amp;rsquo;ve long thought there should be much more of&amp;mdash;namely, more tightly interwoven cultural commentary, especially for music. As I will describe below, I&amp;rsquo;m broadly interested in different ways of combining context, commentary, and criticism with the thing being commented on or critiqued.&lt;/p&gt;
 &lt;p&gt;As you might expect, episodes of Art of the Score include parts of the soundtrack from the movie under discussion (as well as music from other films). This, of course, is an obvious advantage of listening to media about music, rather than just reading a book: you can integrate the music directly into the audio. In the case of this podcast, they also have someone with a piano in front of them while they are recording, so that that person can perform the melodies, for example, or demonstrate differences between slight variations. (As always, I am unbelievably impressed by those people that have the ability to just play such things so casually by ear).&lt;/p&gt;
 &lt;p&gt;As good as this show is, I find it still tends to be too much talking and not enough music, relative to my ideal. These are in-depth, hour-long episodes (or longer), and the hosts spend a lot of time talking about a particular film or composer or piece of music before finally playing part of that music. The live demonstrations on the piano definitely help, but overall the effect tends to be comparable to including a few occasional illustrations in a book: the overall experience is that you are primarily reading the book (or equivalently, listening to a conversation), and this will only occasionally be punctuated by an illustration (or equivalently, a bit of music) to ground your understanding in the actual thing being discussed.&lt;/p&gt;
 &lt;p&gt;What I&amp;rsquo;d really like instead, is to not only incorporate music directly with the commentary, but to flip the ratio to be something more like 70:30, music to commentary, in terms of the total amount of time devoted to each. I would absolutely love a history of music (for pretty much any genre), that took a particular angle (e.g., tracing the evolution of a particular style), and provided history and context to help appreciate the music to be played, interwoven with actual examples of that music. Ideally it would alternate between a few minutes of history, description, or commentary, followed by a couple of songs to demonstrate those points (played in full), and then iterate. Obviously this would massively inflate the runtime of the corresponding text, but I think it would dramatically enhance the experience. It&amp;rsquo;s also not hard to imagine some sort of interface which would make navigation easy (e.g., skipping tracks or finding particular songs). I have not yet encountered anything quite like this in the wild, but if any one knows of good examples of such a format, please let me know in the comments!&lt;/p&gt;
@@ -879,35 +806,6 @@ else document.addEventListener("DOMContentLoaded", fn);
 &lt;/ol&gt;
 &lt;/div&gt;</description></item><item><title>Altair vs. Bokeh (part 2)</title><link>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/</link><pubDate>Mon, 27 Nov 2023 18:17:35 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/</guid><description>
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
@@ -916,9 +814,6 @@ else document.addEventListener("DOMContentLoaded", fn);
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
 &lt;p&gt;In the &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/" target="_blank"&gt;first part&lt;/a&gt; of this series, I used a basic bar plot to illustrate the differences between Altair and Bokeh in terms of defaults, chart configuration, and syntactic style. In this post, I'll get into some of the more substantive differences, including more complicated chart types, combining plots, basic interactivity, and how to deploy the output online. Note that this is not intended to be a systematic comparison, but rather more of a preliminary exploration of the options. (&lt;i&gt;Update: you can now also read &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/" target="_blank"&gt;Part 3&lt;/a&gt;, which does a deeper dive into scatterplots&lt;/i&gt;).&lt;/p&gt;
 
 &lt;p&gt;To illustrate these, I'll work here with histograms and density plots. These are ideal plots to play around with, as both are extremely common and useful (especially in exploratory data analysis, where they can be used to visualize the distribution of data), and yet both involve choices that go beyond basic aesthetics, like color, symbol, or plot area. In particular, it might matter a lot how we set parameters like the number of bins in a histogram or the bandwidth of the density estimator. Finally, both chart types can benefit from interactivity in important ways.&lt;/p&gt;
@@ -1337,9 +1232,7 @@ show(layout)
 
 &lt;p&gt;To deploy such interactive visualizations online, (assuming you're not running your own server), your best bet is to use a package like &lt;a target="_blank" href="https://github.com/streamlit/streamlit"&gt;Streamlit&lt;/a&gt; or &lt;a target="_blank" href="https://github.com/holoviz/panel"&gt;Panel&lt;/a&gt;, and host the visualization someplace like Streamlit Cloud or HuggingFace. For example, &lt;a target="_blank" href="https://huggingface.co/spaces/dcard/panel-bokeh-test"&gt;here&lt;/a&gt; is a plot I made using Bokeh and Panel that I have uploaded to HuggingFace. It may take a minute to load up (click Restart this Space, if necessary), but it does work quite seamlessly, and allows the user to separately control both the kernel density estimator bandwidth and the number of bins in the histogram. (If you click on Files, you can see the script used to produce this in &lt;code&gt;app.py&lt;/code&gt;, and you will see that it is quite a simple and straightforward python script, where we wrap the plot generation in a function, and then link that to sliders using Panel.)&lt;/p&gt;
 
-&lt;p&gt;Wrapping up, both Altair and Bokeh give us extensive options for both interactivity. If we're only using these locally, or we don't care where they are hosted online, then we can easily code up a wide range of interactive plots by combining either Altair or Bokeh with a package like Panel. For deployment on static web pages, however, we'll either need to limit ourselves to the forms of interactivity that are explicitly supported, or we can use Bokeh and write custom javascript callbacks. Overall Bokeh seems to require more external libraries to create some basic chart types (which has both advantages and disadvantages), and may not be as intuitive or compact as Altair, but this ability to support custom callbacks is ultimately a big advantage for deploying interactive visualizations on static pages.&lt;/p&gt;
-
-</description></item><item><title>Refik Anadol</title><link>https://dallascard.github.io/granular-material/post/refik-anadol/</link><pubDate>Wed, 25 Oct 2023 11:05:12 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/refik-anadol/</guid><description>&lt;p&gt;Last week&amp;rsquo;s speaker in the &lt;a href="https://stamps.umich.edu/penny-stamps-speaker-series"&gt;Penny Stamps Speaker Series&lt;/a&gt; was &lt;a href="https://en.wikipedia.org/wiki/Refik_Anadol"&gt;Refik Anadol&lt;/a&gt;, one of the most successful artists working primarily with AI, data, and visualization. Over a decade or so, Anadol has produced work in collaboration with organizations and venues like the &lt;a href="https://refikanadol.com/works/visions-of-america-ameriques/"&gt;LA Philharmonic&lt;/a&gt;, Gaudi&amp;rsquo;s &lt;a href="https://refikanadol.com/works/living-architecture-casa-batllo/"&gt;Casa Batlló&lt;/a&gt;, &lt;a href="https://refikanadol.com/works/machine-hallucinations-sphere/"&gt;the Exosphere&lt;/a&gt; in Las Vegas, and &lt;a href="https://refikanadol.com/works/unsupervised/"&gt;the Museum of Modern Art&lt;/a&gt; in New York.&lt;/p&gt;
+&lt;p&gt;Wrapping up, both Altair and Bokeh give us extensive options for both interactivity. If we're only using these locally, or we don't care where they are hosted online, then we can easily code up a wide range of interactive plots by combining either Altair or Bokeh with a package like Panel. For deployment on static web pages, however, we'll either need to limit ourselves to the forms of interactivity that are explicitly supported, or we can use Bokeh and write custom javascript callbacks. Overall Bokeh seems to require more external libraries to create some basic chart types (which has both advantages and disadvantages), and may not be as intuitive or compact as Altair, but this ability to support custom callbacks is ultimately a big advantage for deploying interactive visualizations on static pages.&lt;/p&gt;</description></item><item><title>Refik Anadol</title><link>https://dallascard.github.io/granular-material/post/refik-anadol/</link><pubDate>Wed, 25 Oct 2023 11:05:12 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/refik-anadol/</guid><description>&lt;p&gt;Last week&amp;rsquo;s speaker in the &lt;a href="https://stamps.umich.edu/penny-stamps-speaker-series"&gt;Penny Stamps Speaker Series&lt;/a&gt; was &lt;a href="https://en.wikipedia.org/wiki/Refik_Anadol"&gt;Refik Anadol&lt;/a&gt;, one of the most successful artists working primarily with AI, data, and visualization. Over a decade or so, Anadol has produced work in collaboration with organizations and venues like the &lt;a href="https://refikanadol.com/works/visions-of-america-ameriques/"&gt;LA Philharmonic&lt;/a&gt;, Gaudi&amp;rsquo;s &lt;a href="https://refikanadol.com/works/living-architecture-casa-batllo/"&gt;Casa Batlló&lt;/a&gt;, &lt;a href="https://refikanadol.com/works/machine-hallucinations-sphere/"&gt;the Exosphere&lt;/a&gt; in Las Vegas, and &lt;a href="https://refikanadol.com/works/unsupervised/"&gt;the Museum of Modern Art&lt;/a&gt; in New York.&lt;/p&gt;
 &lt;p&gt;The lecture he gave was basically a review of his body of work, and that of his art and design studio, which is comprised of about 20 people. The earlier projects he showed mostly took the form of massive scale &lt;a href="https://refikanadol.com/works/quadrature/"&gt;light projections&lt;/a&gt; on the sides of buildings, which could give the impression of a totally different texture or form. More recent work tended to use data driven visualizations, abstracting some sort of data into visual patterns displayed on a wall, building, or screen. Many of these also made use of what appeared to be procedural animations to create the impression of three dimensionality and motion.&lt;/p&gt;
 &lt;p&gt;In some cases explicit imagery is included, such as brief video clips or things close to familiar artworks, but most of it is quite abstract. Part of the reason is that, at least for the works that are not just abstract light patterns, Anadol has made extensive use of various AI methods to create imagery, especially generative adversarial networks (GANs). This phase of his work seems to have come out of his participation in the &lt;a href="https://ami.withgoogle.com/"&gt;Google Art and Machine Intelligence Artist Residency&lt;/a&gt; in 2016, which led to a collaboration with NASA Jet Propulsion Laboratory. For anyone who has followed generative AI for a few years, this type of shifting, slightly unreal, imagery will seem quite familiar, although it is not normally seen at this scale.&lt;/p&gt;
 &lt;p&gt;While Anadol has clearly been very successful in terms of high profile installations, some critics have been quite harsh.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id="fnref:2"&gt;&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref"&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id="fnref:3"&gt;&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref"&gt;3&lt;/a&gt;&lt;/sup&gt; It&amp;rsquo;s easy to see why his work can be polarizing; on one hand, it&amp;rsquo;s obvious that this work involves a high level of technical competence (including both software and hardware). On the other hand, it&amp;rsquo;s easy to dismiss it as abstract, lifeless, and repetitive. At its best, some people seem to get a kind of transcendent experience from experiencing the ever shifting visuals. At their worst, a lot of it seems comparable to a very expensive screensaver.&lt;/p&gt;
@@ -1378,35 +1271,6 @@ show(layout)
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description></item><item><title>Altair vs. Bokeh (part 1)</title><link>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/</link><pubDate>Tue, 25 Jul 2023 18:17:35 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/</guid><description>
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
  Bokeh.set_log_level("info");
@@ -1414,9 +1278,6 @@ show(layout)
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
 &lt;p&gt;
 This is the first of what I hope will be a series of posts comparing Altair and Bokeh. Both are actively supported python packages for making interactive visualizations. This post will only scratch the surface, but is intended to show the basic differences in how they approach creating visualizations. (&lt;i&gt;Update: you can now also read &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/" target="_blank"&gt;Part 2&lt;/a&gt; and &lt;a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/" target="_blank"&gt;Part 3&lt;/a&gt;&lt;/i&gt;).&lt;/p&gt;
 
@@ -1656,7 +1517,4 @@ show(p)
  &lt;li&gt;although it's not directly shown by the above, exporting the plots to HTML results in a much more compact representation for Altair than for Bokeh (check the source for this page for details).&lt;/li&gt; 
  &lt;/ul&gt;
 
- &lt;p&gt;In the end, I expect that Bokeh will ultimately prove more powerful due to it's ability to integrate python callbacks. However, for a wide range of plots, it feels that Altair may be the nicer option so far.&lt;/p&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;</description></item></channel></rss>
+ &lt;p&gt;In the end, I expect that Bokeh will ultimately prove more powerful due to it's ability to integrate python callbacks. However, for a wide range of plots, it feels that Altair may be the nicer option so far.&lt;/p&gt;</description></item></channel></rss>

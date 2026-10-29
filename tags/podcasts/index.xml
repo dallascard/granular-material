@@ -1,34 +1,5 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcasts on Granular Material</title><generator uri="https://gohugo.io">Hugo</generator><link>https://dallascard.github.io/granular-material/tags/podcasts/</link><language>en-us</language><author>Dallas Card</author><updated>Sat, 16 Nov 2024 19:34:55 -0500</updated><item><title>What is a Podcast?</title><link>https://dallascard.github.io/granular-material/post/sporc/</link><pubDate>Sat, 16 Nov 2024 19:34:55 -0500</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/sporc/</guid><description>
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
- &lt;meta charset="utf-8"&gt;
- &lt;title&gt;Simple Bar Chart&lt;/title&gt; 
- &lt;style&gt;
- html, body {
- box-sizing: border-box;
- display: flow-root;
- height: 100%;
- margin: 0;
- padding: 0;
- }
-
- #vis.vega-embed {
- width: 100%;
- display: flex;
- }
-
- #vis.vega-embed details,
- #vis.vega-embed details summary {
- position: relative;
- }
-
- .centered {
- justify-content:center;
- }
-
- &lt;/style&gt;
  &lt;script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"&gt;&lt;/script&gt;
  &lt;script type="text/javascript"&gt;
  Bokeh.set_log_level("info");
@@ -36,9 +7,6 @@
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"&gt;&lt;/script&gt;
  &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
 &lt;p&gt;What is a podcast? I expect we all have our own slightly idiosyncratic answer to that question. For me, podcasts are defined partly by some software I use on my phone that regularly downloads audio files from various feeds, which I periodically listen to, often as I'm doing other things. Most of these recordings feature two or more people engaged in a long-form conversation. Some of these take the form of interviews, in which a regular host interviews a rotating series of guests. Others feature rotating subsets of the same group of hosts, talking together about various issues. A few shows, like &lt;i&gt;Hardcore History&lt;/i&gt;, are just long monologues, not so different from an audiobook.&lt;/p&gt;
 
 &lt;p&gt;For you it may be different. Some of the available feeds feature narrative content. Others are primarily music. A popular form of podcast is something like highly-produced audio journalism or documentaries, with one or more hosts reporting out a story, featuring interviews, audio clips, sound effects, and re-creations. Clearly all of these, especially the last, bear some relation to traditional radio, except that they can be listened to on demand, rather than broadcast. And yet, increasingly people seem to refer to things like video series on YouTube as podcasts, even if they are not delivered via a dedicated audio feed. Others apparently primarily consume podcasts in written form, only reading transcripts, rather than ever listening to a show.&lt;/p&gt;
@@ -94,8 +62,7 @@
 
 &lt;p&gt;However, probably the biggest limitation here is that these numbers tell us nothing about popularity. It &lt;i&gt;could&lt;/i&gt; be, for example, that true crime is an extremely popular genre to listen to, but that there aren't that many shows devoted to it. To me, that would be surprising, given that I would expect supply to largely follow demand, but perhaps the cost of creating such a show is high, or it is effectively impossible to compete with the best known shows. By contrast, perhaps recording a show about a particular fandom is relatively low cost for the hosts (in terms of their time), and they are doing it without expecting to find a large audience.&lt;/p&gt;
 
-&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;
-</description></item><item><title>Sociotechnical Considerations</title><link>https://dallascard.github.io/granular-material/post/sociotechnical-considerations/</link><pubDate>Sat, 27 Apr 2024 13:42:01 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/sociotechnical-considerations/</guid><description>&lt;p&gt;A whole genre of podcasts seems to have emerged recently, taking the shape of interviews with CEOs of AI companies, or similar. Although I have not listened to many of these, they mostly seem to be pretty abysmal, both because of the amount of hype they involve, and due to the lack of meaningful specifics.&lt;/p&gt;
+&lt;p&gt;All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.&lt;/p&gt;</description></item><item><title>Sociotechnical Considerations</title><link>https://dallascard.github.io/granular-material/post/sociotechnical-considerations/</link><pubDate>Sat, 27 Apr 2024 13:42:01 -0400</pubDate><author>Dallas Card</author><guid>https://dallascard.github.io/granular-material/post/sociotechnical-considerations/</guid><description>&lt;p&gt;A whole genre of podcasts seems to have emerged recently, taking the shape of interviews with CEOs of AI companies, or similar. Although I have not listened to many of these, they mostly seem to be pretty abysmal, both because of the amount of hype they involve, and due to the lack of meaningful specifics.&lt;/p&gt;
 &lt;p&gt;That being said, of the ones I&amp;rsquo;ve heard, the recent &lt;a href="https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html"&gt;interview with Dario Amodei of Anthropic on the Ezra Klein Show&lt;/a&gt; seems to me to be vastly better than the average. In part, this is because Klein is a smart, curious, and well informed interviewer, who asks a lot of the right questions, and pushes for details when responses get too mushy. In this case, it also helps that Amodei seems much more straightforwardly honest about limitations than most spokespeople in similar positions.&lt;/p&gt;
 &lt;p&gt;Klein and Amodei cover a lot of territory, and it is well worth listening to the whole thing, but here I just want to comment on a couple of the points they cover early on. Although there is infinite room for speculation and disagreement, these two points, in my opinion, provide nice examples of the failure of many of those predicting the most dramatic advances in AI to think carefully about the sociotechnical aspects of these questions.&lt;/p&gt;
 &lt;p&gt;The first point has to do with the idea that more advanced AI&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt; might be able to speed up processes of scientific discovery, such as in drug development.&lt;/p&gt;
