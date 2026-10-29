@@ -10,9 +10,11 @@
       </div>
     </footer>
 
+    {{ if strings.Contains .Content "<pre" }}
     <!-- Highlight -->
-    <script src="/js/highlight.pack.js"></script>
+    <script src="{{ "js/highlight.pack.js" | absURL }}"></script>
     <script>hljs.initHighlightingOnLoad();</script>
+    {{ end }}
 
     <!-- Google Analytics -->
     {{ partial "google_analytics.html" . }}

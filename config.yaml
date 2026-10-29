@@ -14,7 +14,8 @@ taxonomies:
 
 params:
     mainSections: ["post"]
-    twitter_username: "dallascard"
+    # Used for link previews of the home page and other non-post pages.
+    description: "Exploring topics related to science, technology, and culture in slightly more detail than is reasonable."
     bsky_username: "dallascard.bsky.social"
     paginate: 10
     google_analytics_id: "G-EL45TK68M9"

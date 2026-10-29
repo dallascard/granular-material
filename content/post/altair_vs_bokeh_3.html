@@ -7,35 +7,6 @@ summary: "This is my third entry in a series comparing two interactive data visu
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Simple Bar Chart</title>  
-  <style>
-    html, body {
-      box-sizing: border-box;
-      display: flow-root;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-
-    #vis.vega-embed {
-      width: 100%;
-      display: flex;
-    }
-
-    #vis.vega-embed details,
-    #vis.vega-embed details summary {
-      position: relative;
-    }
-
-    .centered {
-      justify-content:center;
-    }
-
-  </style>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"></script>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.4.0.min.js"></script>
   <script type="text/javascript">
@@ -44,10 +15,6 @@ summary: "This is my third entry in a series comparing two interactive data visu
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-</head>
-<body>
-
-
 <h3>Overview</h3>
 
 <p>This is my third entry in a series comparing two interactive data visualization libraries for python, Bokeh and Altair. In <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/" target="_blank">part 1</a>, I went through a basic overview of some of the differences in terms of syntactic style and defaults. In <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/" target="_blank">part 2</a>, I went slightly deeper into some of the interactive features and more fundamental limitations. In this part, I want to deepen the comparison further, by exploring the basic capabilities each package offers with respect to a basic chart type, namely scatterplots.</p>
@@ -689,10 +656,3 @@ else document.addEventListener("DOMContentLoaded", fn);
 <p>By contrast, it's <i>possible</i> to create contour plots in Altair, but it's definitely a bit of a pain. First, you have to compute the contours using something like <code>contourpy</code> or even <code>matplotlib</code>. Then you have to convert those contours into lines or areas to be drawn by Altair. This isn't too bad, except that if you have two distinct contours to be drawn at the same level (such as for data that has a bimodal distribution), there doesn't seem to be a simple way to tell Altair to treat the two parts as separate lines (without connecting them), other than putting them on separate layers. Sadly, the problem is that it can sometimes be relatively inconvenient in Altair to simply add a line to a plot, compared to alternatives.</p>
 
 <p>Ultimately, the more you try to push beyond previously unimagined use cases for Altair, the more likely you are to run into frustrations. However, the designers of Altair have done such an exceptional job of anticipating a wide range of potential uses, and integrating these seamlessly into the chart semantics, that overall Altair feels to me like a much better choice than Bokeh for most work in exploratory data visualization, as well as for many communicative visualizations. Bokeh still seems to command a larger audience (based on github stars and watchers), but the more time I spend with them, the more convinced I am that Altair is overall a nicer choice than Bokeh for most purposes.</p>
-
-
-
-
-
-
-

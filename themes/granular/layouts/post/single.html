@@ -6,7 +6,6 @@
       <div class="post-header mb2">
         <h1 class="py2" data-pagefind-meta="title">{{ .Title }}</h1>
         <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }} {{ if isset .Params "author" }} by {{ .Params.author }} {{ end }} </span><br>
-        {{ $baseurl := .Site.BaseURL }}
       </div>
       <article class="post-content" data-pagefind-body>
       {{ .Content }}
@@ -21,7 +20,7 @@
       <p class="post-meta">{{ i18n "tags" }}:&nbsp;
         {{ range $i, $e := .Params.tags }}
             {{if $i}},&nbsp;{{end}}
-            <a href="{{ $baseurl }}{{ $.Site.LanguagePrefix }}/tags/{{ . | lower}}/">{{ . }}</a>
+            <a href="{{ printf "tags/%s/" (. | urlize) | absLangURL }}">{{ . }}</a>
         {{ end }}
       </p>
       {{ end }} {{ end }}

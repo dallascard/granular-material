@@ -7,35 +7,6 @@ tags: ['visualization', 'altair', 'bokeh']
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Simple Bar Chart</title>  
-  <style>
-    html, body {
-      box-sizing: border-box;
-      display: flow-root;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-
-    #vis.vega-embed {
-      width: 100%;
-      display: flex;
-    }
-
-    #vis.vega-embed details,
-    #vis.vega-embed details summary {
-      position: relative;
-    }
-
-    .centered {
-      justify-content:center;
-    }
-
-  </style>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"></script>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.2.0.min.js"></script>
   <script type="text/javascript">
@@ -44,9 +15,6 @@ tags: ['visualization', 'altair', 'bokeh']
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-</head>
-<body>
-
 <p>In the <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_1/" target="_blank">first part</a> of this series, I used a basic bar plot to illustrate the differences between Altair and Bokeh in terms of defaults, chart configuration, and syntactic style. In this post, I'll get into some of the more substantive differences, including more complicated chart types, combining plots, basic interactivity, and how to deploy the output online. Note that this is not intended to be a systematic comparison, but rather more of a preliminary exploration of the options. (<i>Update: you can now also read <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/" target="_blank">Part 3</a>, which does a deeper dive into scatterplots</i>).</p>
 
 <p>To illustrate these, I'll work here with histograms and density plots. These are ideal plots to play around with, as both are extremely common and useful (especially in exploratory data analysis, where they can be used to visualize the distribution of data), and yet both involve choices that go beyond basic aesthetics, like color, symbol, or plot area. In particular, it might matter a lot how we set parameters like the number of bins in a histogram or the bandwidth of the density estimator. Finally, both chart types can benefit from interactivity in important ways.</p>
@@ -466,5 +434,3 @@ show(layout)
 <p>To deploy such interactive visualizations online, (assuming you're not running your own server), your best bet is to use a package like <a target="_blank" href="https://github.com/streamlit/streamlit">Streamlit</a> or <a target="_blank" href="https://github.com/holoviz/panel">Panel</a>, and host the visualization someplace like Streamlit Cloud or HuggingFace. For example, <a target="_blank" href="https://huggingface.co/spaces/dcard/panel-bokeh-test">here</a> is a plot I made using Bokeh and Panel that I have uploaded to HuggingFace. It may take a minute to load up (click Restart this Space, if necessary), but it does work quite seamlessly, and allows the user to separately control both the kernel density estimator bandwidth and the number of bins in the histogram. (If you click on Files, you can see the script used to produce this in <code>app.py</code>, and you will see that it is quite a simple and straightforward python script, where we wrap the plot generation in a function, and then link that to sliders using Panel.)</p>
 
 <p>Wrapping up, both Altair and Bokeh give us extensive options for both interactivity. If we're only using these locally, or we don't care where they are hosted online, then we can easily code up a wide range of interactive plots by combining either Altair or Bokeh with a package like Panel. For deployment on static web pages, however, we'll either need to limit ourselves to the forms of interactivity that are explicitly supported, or we can use Bokeh and write custom javascript callbacks. Overall Bokeh seems to require more external libraries to create some basic chart types (which has both advantages and disadvantages), and may not be as intuitive or compact as Altair, but this ability to support custom callbacks is ultimately a big advantage for deploying interactive visualizations on static pages.</p>
-
-

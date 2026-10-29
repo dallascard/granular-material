@@ -43,6 +43,18 @@ tr:nth-child(even) td {
   min-width: 4.5em;
 }
 
+/* Embedded Vega charts (Altair vs. Bokeh and SPORC posts) */
+
+#vis.vega-embed {
+  width: 100%;
+  display: flex;
+}
+
+#vis.vega-embed details,
+#vis.vega-embed details summary {
+  position: relative;
+}
+
 /* Search (Pagefind UI) */
 
 #search {

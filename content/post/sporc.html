@@ -7,35 +7,6 @@ summary: "What is a podcast? I expect we all have our own slightly idiosyncratic
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Simple Bar Chart</title>  
-  <style>
-    html, body {
-      box-sizing: border-box;
-      display: flow-root;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-
-    #vis.vega-embed {
-      width: 100%;
-      display: flex;
-    }
-
-    #vis.vega-embed details,
-    #vis.vega-embed details summary {
-      position: relative;
-    }
-
-    .centered {
-      justify-content:center;
-    }
-
-  </style>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"></script>
   <script type="text/javascript">
       Bokeh.set_log_level("info");
@@ -43,9 +14,6 @@ summary: "What is a podcast? I expect we all have our own slightly idiosyncratic
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-</head>
-<body>
-
 <p>What is a podcast? I expect we all have our own slightly idiosyncratic answer to that question. For me, podcasts are defined partly by some software I use on my phone that regularly downloads audio files from various feeds, which I periodically listen to, often as I'm doing other things. Most of these recordings feature two or more people engaged in a long-form conversation. Some of these take the form of interviews, in which a regular host interviews a rotating series of guests. Others feature rotating subsets of the same group of hosts, talking together about various issues. A few shows, like <i>Hardcore History</i>, are just long monologues, not so different from an audiobook.</p>
 
 <p>For you it may be different. Some of the available feeds feature narrative content. Others are primarily music. A popular form of podcast is something like highly-produced audio journalism or documentaries, with one or more hosts reporting out a story, featuring interviews, audio clips, sound effects, and re-creations. Clearly all of these, especially the last, bear some relation to traditional radio, except that they can be listened to on demand, rather than broadcast. And yet, increasingly people seem to refer to things like video series on YouTube as podcasts, even if they are not delivered via a dedicated audio feed. Others apparently primarily consume podcasts in written form, only reading transcripts, rather than ever listening to a show.</p>
@@ -102,4 +70,3 @@ summary: "What is a podcast? I expect we all have our own slightly idiosyncratic
 <p>However, probably the biggest limitation here is that these numbers tell us nothing about popularity. It <i>could</i> be, for example, that true crime is an extremely popular genre to listen to, but that there aren't that many shows devoted to it. To me, that would be surprising, given that I would expect supply to largely follow demand, but perhaps the cost of creating such a show is high, or it is effectively impossible to compete with the best known shows. By contrast, perhaps recording a show about a particular fandom is relatively low cost for the hosts (in terms of their time), and they are doing it without expecting to find a large audience.</p>
 
 <p>All to say, there is much that we don't yet know about the podcast ecosystem. Our paper contains many more in depth analysis of this dataset, including looking at networks that form via guests that appear on multiple shows, as well as the way discussions of George Floyd spread throughout parts of the ecosystem. Above all, we want to encourage people to take podcasts seriously as a medium for studying the spread of news, information, and cultural interactions, as well as a rich source of data on how people interact. We're also planning to release additional future datasets that will extend our work beyond this first sample, and we're hopeful that SPoRC will help people begin to dig more into these questions.</p>
-

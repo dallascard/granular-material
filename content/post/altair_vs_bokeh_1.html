@@ -6,35 +6,6 @@ summary: "This is the first of what I hope will be a series of posts comparing A
 tags: ['visualization', 'altair', 'bokeh']
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Simple Bar Chart</title>  
-  <style>
-    html, body {
-      box-sizing: border-box;
-      display: flow-root;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-
-    #vis.vega-embed {
-      width: 100%;
-      display: flex;
-    }
-
-    #vis.vega-embed details,
-    #vis.vega-embed details summary {
-      position: relative;
-    }
-
-    .centered {
-      justify-content:center;
-    }
-
-  </style>
   <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.0.min.js"></script>
   <script type="text/javascript">
       Bokeh.set_log_level("info");
@@ -42,9 +13,6 @@ tags: ['visualization', 'altair', 'bokeh']
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-</head>
-<body>
-
 <p>
 This is the first of what I hope will be a series of posts comparing Altair and Bokeh. Both are actively supported python packages for making interactive visualizations. This post will only scratch the surface, but is intended to show the basic differences in how they approach creating visualizations. (<i>Update: you can now also read <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_2/" target="_blank">Part 2</a> and <a href="https://dallascard.github.io/granular-material/post/altair_vs_bokeh_3/" target="_blank">Part 3</a></i>).</p>
 
@@ -283,6 +251,3 @@ show(p)
     </ul>
 
     <p>In the end, I expect that Bokeh will ultimately prove more powerful due to it's ability to integrate python callbacks. However, for a wide range of plots, it feels that Altair may be the nicer option so far.</p>
-
-</body>
-</html>

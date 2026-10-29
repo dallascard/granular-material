@@ -5,11 +5,9 @@
     <div class="measure">
 
   <div>
-   {{ $baseurl := .Site.BaseURL }}
    <h3 id="title">{{ .Title }}</h3>
-   {{ $data := .Data }}
-    {{ range $key,$value := .Data.Terms.ByCount }}
-    <a href="{{ $baseurl }}{{ "/" | relLangURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} <br>
+       {{ range $key,$value := .Data.Terms.ByCount }}
+    <a href="{{ $value.Page.Permalink }}"> {{ $value.Name }} </a> {{ $value.Count }} <br>
     {{ end }}
   </div>
 
