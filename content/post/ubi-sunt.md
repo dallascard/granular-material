@@ -1,5 +1,6 @@
 ---
 title: Ubi Sunt
+aliases: ["/post/ubi_sunt/"]
 date: 2023-09-17T13:05:18-04:00
 draft: false
 tags: [machine-learning, large-language-models, archives, books, fiction, memory, mortality, digital-preservation]
